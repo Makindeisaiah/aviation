@@ -2,15 +2,14 @@
 <html lang="en">
 
 
-<!-- Mirrored from jetly-html.vercel.app/main-html/team.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:34:14 GMT -->
+<!-- Mirrored from jetly-html.vercel.app/main-html/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:35:12 GMT -->
 <!-- Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-<!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Team || Jetly || Jetly HTML 5 Template </title>
+    <title> Contact || Jetly || Jetly HTML 5 Template </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -73,10 +72,8 @@
         ?>
 
         <div class="stricky-header stricked-menu main-menu">
-            <div class="sticky-header__content"></div>
-            <!-- /.sticky-header__content -->
-        </div>
-        <!-- /.stricky-header -->
+            <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
+        </div><!-- /.stricky-header -->
 
         <!--Page Header Start-->
         <section class="page-header">
@@ -84,155 +81,133 @@
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>Aircraft crew</h2>
+                    <h2>Contact us</h2>
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.html">Home</a></li>
                         <li><span>/</span></li>
-                        <li>pages</li>
+                        <li>Contact</li>
                     </ul>
                 </div>
             </div>
         </section>
         <!--Page Header End-->
 
-        <!--Team Start-->
-        <section class="team">
+        <!--Contact Page Start-->
+        <section class="contact-page">
             <div class="container">
                 <div class="section-title text-center">
-                    <span class="section-title__tagline">aircraft crew</span>
-                    <h2 class="section-title__title">Meet the professional <br> private jet crew</h2>
+                    <span class="section-title__tagline">contact us</span>
+                    <h2 class="section-title__title">Feel free to get in touch <br> with the jetly</h2>
                 </div>
                 <div class="row">
-                    <!--Team Single Start-->
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-1.jpg" alt="">
+                    <!--Contact Page Single Start-->
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                        <div class="contact-page__single">
+                            <div class="contact-page__title-box">
+                                <div class="contact-page__title">
+                                    <span>know</span>
+                                    <h3>About us</h3>
                                 </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Jessica brown</a></h4>
-                                    <p class="team__title">Senior pilot</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
+                                <div class="contact-page__icon">
+                                    <span class="icon-flight-1"></span>
                                 </div>
                             </div>
+                            <p class="contact-page__text">Non augue egestas, commodo velit eget, tellus.</p>
                         </div>
                     </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-2.jpg" alt="">
+                    <!--Contact Page Single End-->
+                    <!--Contact Page Single Start-->
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                        <div class="contact-page__single">
+                            <div class="contact-page__title-box">
+                                <div class="contact-page__title">
+                                    <span>write</span>
+                                    <h3>Send email</h3>
                                 </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Mike hardson</a></h4>
-                                    <p class="team__title">Service Manager</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
+                                <div class="contact-page__icon">
+                                    <span class="icon-envelope-back"></span>
                                 </div>
                             </div>
+                            <p class="contact-page__text">
+                                <a href="mailto:needhelp@company.com">needhelp@company.com</a>
+                                <a href="mailto:info@comapny.com">info@comapny.com</a>
+                            </p>
                         </div>
                     </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-3.jpg" alt="">
+                    <!--Contact Page Single End-->
+                    <!--Contact Page Single Start-->
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
+                        <div class="contact-page__single">
+                            <div class="contact-page__title-box">
+                                <div class="contact-page__title">
+                                    <span>book</span>
+                                    <h3>Call now</h3>
                                 </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Sarah albert</a></h4>
-                                    <p class="team__title">Flight attendant</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
+                                <div class="contact-page__icon contact-page__icon--last">
+                                    <span class="icon-call"></span>
                                 </div>
                             </div>
+                            <p class="contact-page__text">
+                                <a href="tel:9288006780">+92 ( 8800 ) - 6780</a>
+                                <a href="tel:0066680900">Jetly + 00 66680 900</a>
+                            </p>
                         </div>
                     </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-4.jpg" alt="">
-                                </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">David smith</a></h4>
-                                    <p class="team__title">Flight manager</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="500ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-5.jpg" alt="">
-                                </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Christine eve</a></h4>
-                                    <p class="team__title">Flight captain</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="600ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-6.jpg" alt="">
-                                </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Kevin martin</a></h4>
-                                    <p class="team__title">Cabin Crew</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Team Single End-->
+                    <!--Contact Page Single End-->
                 </div>
             </div>
         </section>
-        <!--Team End-->
+        <!--Contact Page End-->
+
+        <!--Contact One Start-->
+        <section class="contact-one">
+            <div class="container">
+                <div class="contact-one__form-box">
+                    <form action="https://jetly-html.vercel.app/main-html/assets/inc/sendemail.php" class="contact-one__form contact-form-validated" novalidate="novalidate">
+                        <div class="row">
+                            <div class="col-xl-6">
+                                <div class="contact-form__input-box">
+                                    <input type="text" placeholder="Your name" name="name">
+                                </div>
+                            </div>
+                            <div class="col-xl-6">
+                                <div class="contact-form__input-box">
+                                    <input type="email" placeholder="Email address" name="email">
+                                </div>
+                            </div>
+                            <div class="col-xl-6">
+                                <div class="contact-form__input-box">
+                                    <input type="text" placeholder="Phone number" name="phone">
+                                </div>
+                            </div>
+                            <div class="col-xl-6">
+                                <div class="contact-form__input-box">
+                                    <input type="text" placeholder="Subject" name="subject">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xl-12">
+                                <div class="contact-form__input-box text-message-box">
+                                    <textarea name="message" placeholder="Write message"></textarea>
+                                </div>
+                                <div class="contact-form__btn-box">
+                                    <button type="submit" class="thm-btn contact-form__btn">Send a message</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>
+        <!--Contact One End-->
+
+        <!--Google Map Start-->
+        <section class="google-map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd" class="google-map__one" allowfullscreen></iframe>
+
+        </section>
+        <!--Google Map End-->
 
         <!--Site Footer Start-->
         <?php
@@ -241,8 +216,7 @@
         <!--Site Footer End-->
 
 
-    </div>
-    <!-- /.page-wrapper -->
+    </div><!-- /.page-wrapper -->
 
 
     <div class="mobile-nav__wrapper">
@@ -267,18 +241,15 @@
                     <i class="fa fa-phone-alt"></i>
                     <a href="tel:666-888-0000">666 888 0000</a>
                 </li>
-            </ul>
-            <!-- /.mobile-nav__contact -->
+            </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
                 <div class="mobile-nav__social">
                     <a href="#" class="fab fa-twitter"></a>
                     <a href="#" class="fab fa-facebook-square"></a>
                     <a href="#" class="fab fa-pinterest-p"></a>
                     <a href="#" class="fab fa-instagram"></a>
-                </div>
-                <!-- /.mobile-nav__social -->
-            </div>
-            <!-- /.mobile-nav__top -->
+                </div><!-- /.mobile-nav__social -->
+            </div><!-- /.mobile-nav__top -->
 
 
 
@@ -292,8 +263,7 @@
         <!-- /.search-popup__overlay -->
         <div class="search-popup__content">
             <form action="#">
-                <label for="search" class="sr-only">search here</label>
-                <!-- /.sr-only -->
+                <label for="search" class="sr-only">search here</label><!-- /.sr-only -->
                 <input type="text" id="search" placeholder="Search Here..." />
                 <button type="submit" aria-label="search submit" class="thm-btn">
                     <i class="icon-magnifying-glass"></i>
@@ -341,6 +311,6 @@
 </body>
 
 
-<!-- Mirrored from jetly-html.vercel.app/main-html/team.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:34:16 GMT -->
+<!-- Mirrored from jetly-html.vercel.app/main-html/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:35:12 GMT -->
 
 </html>

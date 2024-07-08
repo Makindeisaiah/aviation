@@ -2,15 +2,14 @@
 <html lang="en">
 
 
-<!-- Mirrored from jetly-html.vercel.app/main-html/team.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:34:14 GMT -->
+<!-- Mirrored from jetly-html.vercel.app/main-html/destinations.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:34:16 GMT -->
 <!-- Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-<!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Team || Jetly || Jetly HTML 5 Template </title>
+    <title> Destinations || Jetly || Jetly HTML 5 Template </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -73,10 +72,8 @@
         ?>
 
         <div class="stricky-header stricked-menu main-menu">
-            <div class="sticky-header__content"></div>
-            <!-- /.sticky-header__content -->
-        </div>
-        <!-- /.stricky-header -->
+            <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
+        </div><!-- /.stricky-header -->
 
         <!--Page Header Start-->
         <section class="page-header">
@@ -84,7 +81,7 @@
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>Aircraft crew</h2>
+                    <h2>Destinations</h2>
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.html">Home</a></li>
                         <li><span>/</span></li>
@@ -95,144 +92,152 @@
         </section>
         <!--Page Header End-->
 
-        <!--Team Start-->
-        <section class="team">
+        <!--Destinations Page Start-->
+        <section class="destinations-page">
             <div class="container">
-                <div class="section-title text-center">
-                    <span class="section-title__tagline">aircraft crew</span>
-                    <h2 class="section-title__title">Meet the professional <br> private jet crew</h2>
-                </div>
                 <div class="row">
-                    <!--Team Single Start-->
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-1.jpg" alt="">
+                    <!--Destinations One Single Start-->
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                        <div class="destination-one__single">
+                            <div class="destination-one__img-box">
+                                <div class="destination-one__img">
+                                    <img src="assets/images/resources/destination-1-1.jpg" alt="">
                                 </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Jessica brown</a></h4>
-                                    <p class="team__title">Senior pilot</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
+                                <div class="destination-one__content">
+                                    <h3 class="destination-one__title"><a href="destination-details.php">Paris -
+                                            Barcelona</a></h3>
+                                    <div class="destination-one__time">
+                                        <div class="destination-one__paris-time">
+                                            <p>Departure: <span>16:50</span></p>
+                                        </div>
+                                        <div class="destination-one__barcelona-time">
+                                            <p>Arrival: <span>20:42</span></p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-2.jpg" alt="">
+                    <!--Destinations One Single End-->
+                    <!--Destinations One Single Start-->
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+                        <div class="destination-one__single">
+                            <div class="destination-one__img-box">
+                                <div class="destination-one__img">
+                                    <img src="assets/images/resources/destination-1-2.jpg" alt="">
                                 </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Mike hardson</a></h4>
-                                    <p class="team__title">Service Manager</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
+                                <div class="destination-one__content">
+                                    <h3 class="destination-one__title"><a href="destination-details.php">Hamburg –
+                                            London</a></h3>
+                                    <div class="destination-one__time">
+                                        <div class="destination-one__paris-time">
+                                            <p>Departure: <span>16:50</span></p>
+                                        </div>
+                                        <div class="destination-one__barcelona-time">
+                                            <p>Arrival: <span>20:42</span></p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-3.jpg" alt="">
+                    <!--Destinations One Single End-->
+                    <!--Destinations One Single Start-->
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+                        <div class="destination-one__single">
+                            <div class="destination-one__img-box">
+                                <div class="destination-one__img">
+                                    <img src="assets/images/resources/destination-1-3.jpg" alt="">
                                 </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Sarah albert</a></h4>
-                                    <p class="team__title">Flight attendant</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
+                                <div class="destination-one__content">
+                                    <h3 class="destination-one__title"><a href="destination-details.php">London –
+                                            Madrid</a></h3>
+                                    <div class="destination-one__time">
+                                        <div class="destination-one__paris-time">
+                                            <p>Departure: <span>16:50</span></p>
+                                        </div>
+                                        <div class="destination-one__barcelona-time">
+                                            <p>Arrival: <span>20:42</span></p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-4.jpg" alt="">
+                    <!--Destinations One Single End-->
+                    <!--Destinations One Single Start-->
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                        <div class="destination-one__single">
+                            <div class="destination-one__img-box">
+                                <div class="destination-one__img">
+                                    <img src="assets/images/resources/destination-1-4.jpg" alt="">
                                 </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">David smith</a></h4>
-                                    <p class="team__title">Flight manager</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
+                                <div class="destination-one__content">
+                                    <h3 class="destination-one__title"><a href="destination-details.php">New york –
+                                            Dubai</a></h3>
+                                    <div class="destination-one__time">
+                                        <div class="destination-one__paris-time">
+                                            <p>Departure: <span>16:50</span></p>
+                                        </div>
+                                        <div class="destination-one__barcelona-time">
+                                            <p>Arrival: <span>20:42</span></p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="500ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-5.jpg" alt="">
+                    <!--Destinations One Single End-->
+                    <!--Destinations One Single Start-->
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="500ms">
+                        <div class="destination-one__single">
+                            <div class="destination-one__img-box">
+                                <div class="destination-one__img">
+                                    <img src="assets/images/resources/destination-1-5.jpg" alt="">
                                 </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Christine eve</a></h4>
-                                    <p class="team__title">Flight captain</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
+                                <div class="destination-one__content">
+                                    <h3 class="destination-one__title"><a href="destination-details.php">Rome –
+                                            Paris</a></h3>
+                                    <div class="destination-one__time">
+                                        <div class="destination-one__paris-time">
+                                            <p>Departure: <span>16:50</span></p>
+                                        </div>
+                                        <div class="destination-one__barcelona-time">
+                                            <p>Arrival: <span>20:42</span></p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="600ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-6.jpg" alt="">
+                    <!--Destinations One Single End-->
+                    <!--Destinations One Single Start-->
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="destination-one__single">
+                            <div class="destination-one__img-box">
+                                <div class="destination-one__img">
+                                    <img src="assets/images/resources/destination-1-6.jpg" alt="">
                                 </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Kevin martin</a></h4>
-                                    <p class="team__title">Cabin Crew</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
+                                <div class="destination-one__content">
+                                    <h3 class="destination-one__title"><a href="destination-details.php">Moscow –
+                                            Egypt</a></h3>
+                                    <div class="destination-one__time">
+                                        <div class="destination-one__paris-time">
+                                            <p>Departure: <span>16:50</span></p>
+                                        </div>
+                                        <div class="destination-one__barcelona-time">
+                                            <p>Arrival: <span>20:42</span></p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--Team Single End-->
+                    <!--Destinations One Single End-->
                 </div>
             </div>
         </section>
-        <!--Team End-->
+        <!--Destinations Page End-->
 
         <!--Site Footer Start-->
         <?php
@@ -241,8 +246,7 @@
         <!--Site Footer End-->
 
 
-    </div>
-    <!-- /.page-wrapper -->
+    </div><!-- /.page-wrapper -->
 
 
     <div class="mobile-nav__wrapper">
@@ -267,18 +271,15 @@
                     <i class="fa fa-phone-alt"></i>
                     <a href="tel:666-888-0000">666 888 0000</a>
                 </li>
-            </ul>
-            <!-- /.mobile-nav__contact -->
+            </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
                 <div class="mobile-nav__social">
                     <a href="#" class="fab fa-twitter"></a>
                     <a href="#" class="fab fa-facebook-square"></a>
                     <a href="#" class="fab fa-pinterest-p"></a>
                     <a href="#" class="fab fa-instagram"></a>
-                </div>
-                <!-- /.mobile-nav__social -->
-            </div>
-            <!-- /.mobile-nav__top -->
+                </div><!-- /.mobile-nav__social -->
+            </div><!-- /.mobile-nav__top -->
 
 
 
@@ -292,8 +293,7 @@
         <!-- /.search-popup__overlay -->
         <div class="search-popup__content">
             <form action="#">
-                <label for="search" class="sr-only">search here</label>
-                <!-- /.sr-only -->
+                <label for="search" class="sr-only">search here</label><!-- /.sr-only -->
                 <input type="text" id="search" placeholder="Search Here..." />
                 <button type="submit" aria-label="search submit" class="thm-btn">
                     <i class="icon-magnifying-glass"></i>
@@ -341,6 +341,6 @@
 </body>
 
 
-<!-- Mirrored from jetly-html.vercel.app/main-html/team.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:34:16 GMT -->
+<!-- Mirrored from jetly-html.vercel.app/main-html/destinations.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:34:18 GMT -->
 
 </html>

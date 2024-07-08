@@ -2,15 +2,12 @@
 <html lang="en">
 
 
-<!-- Mirrored from jetly-html.vercel.app/main-html/team.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:34:14 GMT -->
-<!-- Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-<!-- /Added by HTTrack -->
-
+<!-- Mirrored from jetly-html.vercel.app/main-html/services.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:34:39 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Team || Jetly || Jetly HTML 5 Template </title>
+    <title> Services || Jetly || Jetly HTML 5 Template </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -23,7 +20,9 @@
 
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap"
+        rel="stylesheet">
 
     <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
@@ -68,15 +67,13 @@
 
 
     <div class="page-wrapper">
-        <?php
+    <?php
         include "includes/header.php";
         ?>
 
         <div class="stricky-header stricked-menu main-menu">
-            <div class="sticky-header__content"></div>
-            <!-- /.sticky-header__content -->
-        </div>
-        <!-- /.stricky-header -->
+            <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
+        </div><!-- /.stricky-header -->
 
         <!--Page Header Start-->
         <section class="page-header">
@@ -84,155 +81,147 @@
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>Aircraft crew</h2>
+                    <h2>Our services</h2>
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.html">Home</a></li>
                         <li><span>/</span></li>
-                        <li>pages</li>
+                        <li>Services</li>
                     </ul>
                 </div>
             </div>
         </section>
         <!--Page Header End-->
 
-        <!--Team Start-->
-        <section class="team">
+        <!--Services Page Start-->
+        <section class="services-page">
             <div class="container">
                 <div class="section-title text-center">
-                    <span class="section-title__tagline">aircraft crew</span>
-                    <h2 class="section-title__title">Meet the professional <br> private jet crew</h2>
+                    <span class="section-title__tagline">what we’re offering</span>
+                    <h2 class="section-title__title">Select the service <br> according to your work</h2>
                 </div>
                 <div class="row">
-                    <!--Team Single Start-->
+                    <!--Services One Single Start-->
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-1.jpg" alt="">
+                        <div class="services-one__single">
+                            <div class="services-one__img">
+                                <img src="assets/images/services/services-1-1.jpg" alt="">
+                            </div>
+                            <div class="services-one__content">
+                                <div class="services-one__title-box">
+                                    <span class="services-one__sub-title">Fight For</span>
+                                    <h3 class="services-one__title"><a href="business-charter.php">Business charter</a>
+                                    </h3>
                                 </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Jessica brown</a></h4>
-                                    <p class="team__title">Senior pilot</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
+                                <p class="services-one__text">Non augue egestas, commodo velit eget, tellus.</p>
+                                <div class="services-one__arrow">
+                                    <a href="business-charter.php"><i class="fas fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
+                    <!--Services One Single End-->
+                    <!--Services One Single Start-->
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-2.jpg" alt="">
+                        <div class="services-one__single">
+                            <div class="services-one__img">
+                                <img src="assets/images/services/services-1-2.jpg" alt="">
+                            </div>
+                            <div class="services-one__content">
+                                <div class="services-one__title-box">
+                                    <span class="services-one__sub-title">Fight For</span>
+                                    <h3 class="services-one__title"><a href="private-charter.php">Private charter</a>
+                                    </h3>
                                 </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Mike hardson</a></h4>
-                                    <p class="team__title">Service Manager</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
+                                <p class="services-one__text">Non augue egestas, commodo velit eget, tellus.</p>
+                                <div class="services-one__arrow">
+                                    <a href="private-charter.php"><i class="fas fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
+                    <!--Services One Single End-->
+                    <!--Services One Single Start-->
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-3.jpg" alt="">
+                        <div class="services-one__single">
+                            <div class="services-one__img">
+                                <img src="assets/images/services/services-1-3.jpg" alt="">
+                            </div>
+                            <div class="services-one__content">
+                                <div class="services-one__title-box">
+                                    <span class="services-one__sub-title">Fight For</span>
+                                    <h3 class="services-one__title"><a href="jet-rentals.php">Jet rentals</a></h3>
                                 </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Sarah albert</a></h4>
-                                    <p class="team__title">Flight attendant</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
+                                <p class="services-one__text">Non augue egestas, commodo velit eget, tellus.</p>
+                                <div class="services-one__arrow">
+                                    <a href="jet-rentals.php"><i class="fas fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
+                    <!--Services One Single End-->
+                    <!--Services One Single Start-->
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-4.jpg" alt="">
+                        <div class="services-one__single">
+                            <div class="services-one__img">
+                                <img src="assets/images/services/services-1-4.jpg" alt="">
+                            </div>
+                            <div class="services-one__content">
+                                <div class="services-one__title-box">
+                                    <span class="services-one__sub-title">Fight For</span>
+                                    <h3 class="services-one__title"><a href="high-profile-people.php">High profile
+                                            people</a></h3>
                                 </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">David smith</a></h4>
-                                    <p class="team__title">Flight manager</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
+                                <p class="services-one__text">Non augue egestas, commodo velit eget, tellus.</p>
+                                <div class="services-one__arrow">
+                                    <a href="high-profile-people.php"><i class="fas fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
+                    <!--Services One Single End-->
+                    <!--Services One Single Start-->
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="500ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-5.jpg" alt="">
+                        <div class="services-one__single">
+                            <div class="services-one__img">
+                                <img src="assets/images/services/services-1-5.jpg" alt="">
+                            </div>
+                            <div class="services-one__content">
+                                <div class="services-one__title-box">
+                                    <span class="services-one__sub-title">Fight For</span>
+                                    <h3 class="services-one__title"><a href="music-tours.php">Music tours</a></h3>
                                 </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Christine eve</a></h4>
-                                    <p class="team__title">Flight captain</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
+                                <p class="services-one__text">Non augue egestas, commodo velit eget, tellus.</p>
+                                <div class="services-one__arrow">
+                                    <a href="music-tours.php"><i class="fas fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
+                    <!--Services One Single End-->
+                    <!--Services One Single Start-->
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="600ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-6.jpg" alt="">
+                        <div class="services-one__single">
+                            <div class="services-one__img">
+                                <img src="assets/images/services/services-1-6.jpg" alt="">
+                            </div>
+                            <div class="services-one__content">
+                                <div class="services-one__title-box">
+                                    <span class="services-one__sub-title">Fight For</span>
+                                    <h3 class="services-one__title"><a href="sports-teams.php">Sports teams</a></h3>
                                 </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Kevin martin</a></h4>
-                                    <p class="team__title">Cabin Crew</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
+                                <p class="services-one__text">Non augue egestas, commodo velit eget, tellus.</p>
+                                <div class="services-one__arrow">
+                                    <a href="sports-teams.php"><i class="fas fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--Team Single End-->
+                    <!--Services One Single End-->
                 </div>
             </div>
         </section>
-        <!--Team End-->
+        <!--Services Page End-->
+
 
         <!--Site Footer Start-->
         <?php
@@ -241,8 +230,7 @@
         <!--Site Footer End-->
 
 
-    </div>
-    <!-- /.page-wrapper -->
+    </div><!-- /.page-wrapper -->
 
 
     <div class="mobile-nav__wrapper">
@@ -252,7 +240,8 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="143" alt="" /></a>
+                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="143"
+                        alt="" /></a>
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>
@@ -267,18 +256,15 @@
                     <i class="fa fa-phone-alt"></i>
                     <a href="tel:666-888-0000">666 888 0000</a>
                 </li>
-            </ul>
-            <!-- /.mobile-nav__contact -->
+            </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
                 <div class="mobile-nav__social">
                     <a href="#" class="fab fa-twitter"></a>
                     <a href="#" class="fab fa-facebook-square"></a>
                     <a href="#" class="fab fa-pinterest-p"></a>
                     <a href="#" class="fab fa-instagram"></a>
-                </div>
-                <!-- /.mobile-nav__social -->
-            </div>
-            <!-- /.mobile-nav__top -->
+                </div><!-- /.mobile-nav__social -->
+            </div><!-- /.mobile-nav__top -->
 
 
 
@@ -292,8 +278,7 @@
         <!-- /.search-popup__overlay -->
         <div class="search-popup__content">
             <form action="#">
-                <label for="search" class="sr-only">search here</label>
-                <!-- /.sr-only -->
+                <label for="search" class="sr-only">search here</label><!-- /.sr-only -->
                 <input type="text" id="search" placeholder="Search Here..." />
                 <button type="submit" aria-label="search submit" class="thm-btn">
                     <i class="icon-magnifying-glass"></i>
@@ -341,6 +326,5 @@
 </body>
 
 
-<!-- Mirrored from jetly-html.vercel.app/main-html/team.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:34:16 GMT -->
-
+<!-- Mirrored from jetly-html.vercel.app/main-html/services.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:34:40 GMT -->
 </html>

@@ -69,326 +69,229 @@
 
     <div class="page-wrapper">
         <?php
-       include "includes/header.php";
-       ?>
+        include "includes/header.php";
+        ?>
 
-            <div class="stricky-header stricked-menu main-menu">
-                <div class="sticky-header__content"></div>
-                <!-- /.sticky-header__content -->
+        <div class="stricky-header stricked-menu main-menu">
+            <div class="sticky-header__content"></div>
+            <!-- /.sticky-header__content -->
+        </div>
+        <!-- /.stricky-header -->
+
+        <!--Page Header Start-->
+        <section class="page-header">
+            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
             </div>
-            <!-- /.stricky-header -->
-
-            <!--Page Header Start-->
-            <section class="page-header">
-                <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
+            <div class="container">
+                <div class="page-header__inner">
+                    <h2>Destination details</h2>
+                    <ul class="thm-breadcrumb list-unstyled">
+                        <li><a href="index.html">Home</a></li>
+                        <li><span>/</span></li>
+                        <li>pages</li>
+                    </ul>
                 </div>
-                <div class="container">
-                    <div class="page-header__inner">
-                        <h2>Destination details</h2>
-                        <ul class="thm-breadcrumb list-unstyled">
-                            <li><a href="index.html">Home</a></li>
-                            <li><span>/</span></li>
-                            <li>pages</li>
-                        </ul>
-                    </div>
-                </div>
-            </section>
-            <!--Page Header End-->
+            </div>
+        </section>
+        <!--Page Header End-->
 
-            <!--Destination Details Start-->
-            <section class="destination-details">
-                <div class="container">
-                    <div class="destination-details__top">
-                        <div class="row">
-                            <div class="col-xl-9 col-lg-8">
-                                <div class="destination-details__top-left">
-                                    <div class="destination-details__top-img">
-                                        <img src="assets/images/resources/destination-details-top-img-1.jpg" alt="">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-4">
-                                <div class="destination-details__top-right">
-                                    <div class="destination-details__details-box">
-                                        <ul class="list-unstyled destination-details__details-list">
-                                            <li>
-                                                <p class="destination-details__client">Date:</p>
-                                                <h4 class="destination-details__name">Tuesday, Jul 6, 2022</h4>
-                                            </li>
-                                            <li>
-                                                <p class="destination-details__client">Departure:</p>
-                                                <h4 class="destination-details__name">2 hours 25 min</h4>
-                                            </li>
-                                            <li>
-                                                <p class="destination-details__client">Arrival:</p>
-                                                <h4 class="destination-details__name">02:25 am</h4>
-                                            </li>
-                                            <li>
-                                                <p class="destination-details__client">Starting From:</p>
-                                                <h4 class="destination-details__name">$2786</h4>
-                                            </li>
-                                            <li>
-                                                <p class="destination-details__client">Person:</p>
-                                                <h4 class="destination-details__name">Adult 3</h4>
-                                            </li>
-                                        </ul>
-                                    </div>
+        <!--Destination Details Start-->
+        <section class="destination-details">
+            <div class="container">
+                <div class="destination-details__top">
+                    <div class="row">
+                        <div class="col-xl-9 col-lg-8">
+                            <div class="destination-details__top-left">
+                                <div class="destination-details__top-img">
+                                    <img src="assets/images/resources/destination-details-top-img-1.jpg" alt="">
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="destination-details__bottom">
-                        <div class="row">
-                            <div class="col-xl-12">
-                                <div class="destination-details__bottom-inner">
-                                    <h3 class="destination-details__title">Hamburg - London</h3>
-                                    <p class="destination-details__text-1">Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var
-                                        sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an
-                                        unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take
-                                        a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not
-                                        only five centuries, but also the leap into electronic typesetting, remaining </p>
-                                    <ul class="list-unstyled destination-details__points">
+                        <div class="col-xl-3 col-lg-4">
+                            <div class="destination-details__top-right">
+                                <div class="destination-details__details-box">
+                                    <ul class="list-unstyled destination-details__details-list">
                                         <li>
-                                            <div class="icon">
-                                                <span class="icon-tick"></span>
-                                            </div>
-                                            <div class="text">
-                                                <p>Lorem Ipsum generators on the Internet tend uses a dictionary.</p>
-                                            </div>
+                                            <p class="destination-details__client">Date:</p>
+                                            <h4 class="destination-details__name">Tuesday, Jul 6, 2022</h4>
                                         </li>
                                         <li>
-                                            <div class="icon">
-                                                <span class="icon-tick"></span>
-                                            </div>
-                                            <div class="text">
-                                                <p>The majority have alteration in some form of over 200 Latin words.</p>
-                                            </div>
+                                            <p class="destination-details__client">Departure:</p>
+                                            <h4 class="destination-details__name">2 hours 25 min</h4>
                                         </li>
                                         <li>
-                                            <div class="icon">
-                                                <span class="icon-tick"></span>
-                                            </div>
-                                            <div class="text">
-                                                <p>There are many variations of passages of available slightly.</p>
-                                            </div>
+                                            <p class="destination-details__client">Arrival:</p>
+                                            <h4 class="destination-details__name">02:25 am</h4>
+                                        </li>
+                                        <li>
+                                            <p class="destination-details__client">Starting From:</p>
+                                            <h4 class="destination-details__name">$2786</h4>
+                                        </li>
+                                        <li>
+                                            <p class="destination-details__client">Person:</p>
+                                            <h4 class="destination-details__name">Adult 3</h4>
                                         </li>
                                     </ul>
-                                    <p class="destination-details__text-2">Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem
-                                        Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys.</p>
-                                    <div class="destination-details__pagination-box">
-                                        <ul class="destination-details__pagination list-unstyled clearfix">
-                                            <li class="next">
-                                                <a href="#" aria-label="Previous"><i
-                                                    class="icon-left-arrow"></i>Previous</a>
-                                            </li>
-                                            <li class="count">
-                                                <a href="#"></a>
-                                            </li>
-                                            <li class="count">
-                                                <a href="#"></a>
-                                            </li>
-                                            <li class="count">
-                                                <a href="#"></a>
-                                            </li>
-                                            <li class="count">
-                                                <a href="#"></a>
-                                            </li>
-                                            <li class="previous">
-                                                <a href="#" aria-label="Next">Next<i class="icon-right-arrow"></i></a>
-                                            </li>
-                                        </ul>
-                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </section>
-            <!--Destination Details End-->
-
-            <!--Similar Destination Start-->
-            <section class="similar-destination">
-                <div class="container">
-                    <div class="section-title text-center">
-                        <span class="section-title__tagline">What will you get</span>
-                        <h2 class="section-title__title">Checkout the similar <br> jet charters destinations</h2>
-                    </div>
+                <div class="destination-details__bottom">
                     <div class="row">
-                        <!--Destinations One Single Start-->
-                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
-                            <div class="destination-one__single">
-                                <div class="destination-one__img-box">
-                                    <div class="destination-one__img">
-                                        <img src="assets/images/resources/destination-1-4.jpg" alt="">
-                                    </div>
-                                    <div class="destination-one__content">
-                                        <h3 class="destination-one__title"><a href="destination-details.php">New york –
-                                            Dubai</a></h3>
-                                        <div class="destination-one__time">
-                                            <div class="destination-one__paris-time">
-                                                <p>Departure: <span>16:50</span></p>
-                                            </div>
-                                            <div class="destination-one__barcelona-time">
-                                                <p>Arrival: <span>20:42</span></p>
-                                            </div>
+                        <div class="col-xl-12">
+                            <div class="destination-details__bottom-inner">
+                                <h3 class="destination-details__title">Hamburg - London</h3>
+                                <p class="destination-details__text-1">Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var
+                                    sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an
+                                    unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take
+                                    a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not
+                                    only five centuries, but also the leap into electronic typesetting, remaining </p>
+                                <ul class="list-unstyled destination-details__points">
+                                    <li>
+                                        <div class="icon">
+                                            <span class="icon-tick"></span>
                                         </div>
-                                    </div>
+                                        <div class="text">
+                                            <p>Lorem Ipsum generators on the Internet tend uses a dictionary.</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="icon">
+                                            <span class="icon-tick"></span>
+                                        </div>
+                                        <div class="text">
+                                            <p>The majority have alteration in some form of over 200 Latin words.</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="icon">
+                                            <span class="icon-tick"></span>
+                                        </div>
+                                        <div class="text">
+                                            <p>There are many variations of passages of available slightly.</p>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <p class="destination-details__text-2">Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem
+                                    Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys.</p>
+                                <div class="destination-details__pagination-box">
+                                    <ul class="destination-details__pagination list-unstyled clearfix">
+                                        <li class="next">
+                                            <a href="#" aria-label="Previous"><i class="icon-left-arrow"></i>Previous</a>
+                                        </li>
+                                        <li class="count">
+                                            <a href="#"></a>
+                                        </li>
+                                        <li class="count">
+                                            <a href="#"></a>
+                                        </li>
+                                        <li class="count">
+                                            <a href="#"></a>
+                                        </li>
+                                        <li class="count">
+                                            <a href="#"></a>
+                                        </li>
+                                        <li class="previous">
+                                            <a href="#" aria-label="Next">Next<i class="icon-right-arrow"></i></a>
+                                        </li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
-                        <!--Destinations One Single End-->
-                        <!--Destinations One Single Start-->
-                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                            <div class="destination-one__single">
-                                <div class="destination-one__img-box">
-                                    <div class="destination-one__img">
-                                        <img src="assets/images/resources/destination-1-5.jpg" alt="">
-                                    </div>
-                                    <div class="destination-one__content">
-                                        <h3 class="destination-one__title"><a href="destination-details.php">Rome –
-                                            Paris</a></h3>
-                                        <div class="destination-one__time">
-                                            <div class="destination-one__paris-time">
-                                                <p>Departure: <span>16:50</span></p>
-                                            </div>
-                                            <div class="destination-one__barcelona-time">
-                                                <p>Arrival: <span>20:42</span></p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Destinations One Single End-->
-                        <!--Destinations One Single Start-->
-                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
-                            <div class="destination-one__single">
-                                <div class="destination-one__img-box">
-                                    <div class="destination-one__img">
-                                        <img src="assets/images/resources/destination-1-6.jpg" alt="">
-                                    </div>
-                                    <div class="destination-one__content">
-                                        <h3 class="destination-one__title"><a href="destination-details.php">Moscow –
-                                            Egypt</a></h3>
-                                        <div class="destination-one__time">
-                                            <div class="destination-one__paris-time">
-                                                <p>Departure: <span>16:50</span></p>
-                                            </div>
-                                            <div class="destination-one__barcelona-time">
-                                                <p>Arrival: <span>20:42</span></p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Destinations One Single End-->
                     </div>
                 </div>
-            </section>
-            <!--Similar Destination End-->
+            </div>
+        </section>
+        <!--Destination Details End-->
 
-            <!--Site Footer Start-->
-            <footer class="site-footer">
-                <div class="container">
-                    <div class="site-footer__inner">
-                        <div class="site-footer__shape-1 zoom-fade-3">
-                            <img src="assets/images/shapes/site-footer-shape-1.png" alt="">
-                        </div>
-                        <div class="site-footer__top">
-                            <div class="row">
-                                <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-                                    <div class="footer-widget__column footer-widget__about">
-                                        <div class="footer-widget__logo">
-                                            <a href="#"><img src="assets/images/resources/footer-logo.png" alt=""></a>
-                                        </div>
-                                        <div class="footer-widget__about-text-box">
-                                            <p class="footer-widget__about-text">Private jet charters save your time and give you comfort.</p>
-                                        </div>
-                                    </div>
+        <!--Similar Destination Start-->
+        <section class="similar-destination">
+            <div class="container">
+                <div class="section-title text-center">
+                    <span class="section-title__tagline">What will you get</span>
+                    <h2 class="section-title__title">Checkout the similar <br> jet charters destinations</h2>
+                </div>
+                <div class="row">
+                    <!--Destinations One Single Start-->
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                        <div class="destination-one__single">
+                            <div class="destination-one__img-box">
+                                <div class="destination-one__img">
+                                    <img src="assets/images/resources/destination-1-4.jpg" alt="">
                                 </div>
-                                <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-                                    <div class="footer-widget__column footer-widget__Explore">
-                                        <div class="footer-widget__title-box">
-                                            <h3 class="footer-widget__title">Explore</h3>
+                                <div class="destination-one__content">
+                                    <h3 class="destination-one__title"><a href="destination-details.php">New york –
+                                            Dubai</a></h3>
+                                    <div class="destination-one__time">
+                                        <div class="destination-one__paris-time">
+                                            <p>Departure: <span>16:50</span></p>
                                         </div>
-                                        <ul class="footer-widget__Explore-list list-unstyled">
-                                            <li><a href="about.html">About</a></li>
-                                            <li><a href="jet-rentals.html">Private Jet Catering</a></li>
-                                            <li><a href="destinations.html">Destinations</a></li>
-                                            <li><a href="contact.html">Flight Search</a></li>
-                                            <li><a href="contact.html">Book Flight</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-                                    <div class="footer-widget__column footer-widget__links">
-                                        <div class="footer-widget__title-box">
-                                            <h3 class="footer-widget__title">Links</h3>
+                                        <div class="destination-one__barcelona-time">
+                                            <p>Arrival: <span>20:42</span></p>
                                         </div>
-                                        <ul class="footer-widget__Explore-list list-unstyled">
-                                            <li><a href="about.html">Terms of Use</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                            <li><a href="news.html">News & Press</a></li>
-                                            <li><a href="about.html">Games</a></li>
-                                            <li><a href="faq.html">FAQs</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-                                    <div class="footer-widget__column footer-widget__Contact">
-                                        <div class="footer-widget__title-box">
-                                            <h3 class="footer-widget__title">Contact</h3>
-                                        </div>
-                                        <ul class="footer-widget__Contact-list list-unstyled">
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fas fa-phone"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p><a href="tel:+9288006780">+92 ( 8800 ) - 6780</a></p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fas fa-envelope"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p><a href="mailto:needhelp@company.com">needhelp@company.com</a></p>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="icon">
-                                                    <span class="fas fa-map-marker"></span>
-                                                </div>
-                                                <div class="text">
-                                                    <p>30 broklyn golden street. New York</p>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="site-footer__bottom">
-                            <div class="site-footer__bottom-inner">
-                                <div class="site-footer__bottom-left">
-                                    <p class="site-footer__bottom-text">© Copyright 2022 by <a href="#">Jetly.com</a></p>
-                                </div>
-                                <div class="site-footer__bottom-right">
-                                    <div class="site-footer__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <!--Destinations One Single End-->
+                    <!--Destinations One Single Start-->
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                        <div class="destination-one__single">
+                            <div class="destination-one__img-box">
+                                <div class="destination-one__img">
+                                    <img src="assets/images/resources/destination-1-5.jpg" alt="">
+                                </div>
+                                <div class="destination-one__content">
+                                    <h3 class="destination-one__title"><a href="destination-details.php">Rome –
+                                            Paris</a></h3>
+                                    <div class="destination-one__time">
+                                        <div class="destination-one__paris-time">
+                                            <p>Departure: <span>16:50</span></p>
+                                        </div>
+                                        <div class="destination-one__barcelona-time">
+                                            <p>Arrival: <span>20:42</span></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Destinations One Single End-->
+                    <!--Destinations One Single Start-->
+                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
+                        <div class="destination-one__single">
+                            <div class="destination-one__img-box">
+                                <div class="destination-one__img">
+                                    <img src="assets/images/resources/destination-1-6.jpg" alt="">
+                                </div>
+                                <div class="destination-one__content">
+                                    <h3 class="destination-one__title"><a href="destination-details.php">Moscow –
+                                            Egypt</a></h3>
+                                    <div class="destination-one__time">
+                                        <div class="destination-one__paris-time">
+                                            <p>Departure: <span>16:50</span></p>
+                                        </div>
+                                        <div class="destination-one__barcelona-time">
+                                            <p>Arrival: <span>20:42</span></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Destinations One Single End-->
                 </div>
-            </footer>
-            <!--Site Footer End-->
+            </div>
+        </section>
+        <!--Similar Destination End-->
+
+        <!--Site Footer Start-->
+        <?php
+        include "includes/footer.php";
+        ?>
+        <!--Site Footer End-->
 
 
     </div>

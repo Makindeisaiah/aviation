@@ -2,15 +2,14 @@
 <html lang="en">
 
 
-<!-- Mirrored from jetly-html.vercel.app/main-html/team.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:34:14 GMT -->
+<!-- Mirrored from jetly-html.vercel.app/main-html/gallery.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:34:24 GMT -->
 <!-- Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-<!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Team || Jetly || Jetly HTML 5 Template </title>
+    <title> Gallery || Jetly || Jetly HTML 5 Template </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -73,10 +72,8 @@
         ?>
 
         <div class="stricky-header stricked-menu main-menu">
-            <div class="sticky-header__content"></div>
-            <!-- /.sticky-header__content -->
-        </div>
-        <!-- /.stricky-header -->
+            <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
+        </div><!-- /.stricky-header -->
 
         <!--Page Header Start-->
         <section class="page-header">
@@ -84,7 +81,7 @@
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>Aircraft crew</h2>
+                    <h2>Photo gallery</h2>
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.html">Home</a></li>
                         <li><span>/</span></li>
@@ -95,144 +92,126 @@
         </section>
         <!--Page Header End-->
 
-        <!--Team Start-->
-        <section class="team">
+        <!--Gallery Page Start-->
+        <section class="gallery-page">
             <div class="container">
                 <div class="section-title text-center">
-                    <span class="section-title__tagline">aircraft crew</span>
-                    <h2 class="section-title__title">Meet the professional <br> private jet crew</h2>
+                    <span class="section-title__tagline">our gallery</span>
+                    <h2 class="section-title__title">Checkout our flights & <br> travel photos</h2>
                 </div>
                 <div class="row">
-                    <!--Team Single Start-->
+                    <!--Gallery Page Single Start-->
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-1.jpg" alt="">
-                                </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Jessica brown</a></h4>
-                                    <p class="team__title">Senior pilot</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
+                        <div class="gallery-page__single">
+                            <div class="gallery-page__img">
+                                <img src="assets/images/gallery/gallery-page-1.jpg" alt="">
+                                <div class="gallery-page__icon">
+                                    <a class="img-popup" href="assets/images/gallery/gallery-page-1.jpg"><span class="fa fa-plus"></span></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
+                    <!--Gallery Page Single End-->
+                    <!--Gallery Page Single Start-->
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-2.jpg" alt="">
-                                </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Mike hardson</a></h4>
-                                    <p class="team__title">Service Manager</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
+                        <div class="gallery-page__single">
+                            <div class="gallery-page__img">
+                                <img src="assets/images/gallery/gallery-page-2.jpg" alt="">
+                                <div class="gallery-page__icon">
+                                    <a class="img-popup" href="assets/images/gallery/gallery-page-2.jpg"><span class="fa fa-plus"></span></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
+                    <!--Gallery Page Single End-->
+                    <!--Gallery Page Single Start-->
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-3.jpg" alt="">
-                                </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Sarah albert</a></h4>
-                                    <p class="team__title">Flight attendant</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
+                        <div class="gallery-page__single">
+                            <div class="gallery-page__img">
+                                <img src="assets/images/gallery/gallery-page-3.jpg" alt="">
+                                <div class="gallery-page__icon">
+                                    <a class="img-popup" href="assets/images/gallery/gallery-page-3.jpg"><span class="fa fa-plus"></span></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
+                    <!--Gallery Page Single End-->
+                    <!--Gallery Page Single Start-->
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-4.jpg" alt="">
-                                </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">David smith</a></h4>
-                                    <p class="team__title">Flight manager</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
+                        <div class="gallery-page__single">
+                            <div class="gallery-page__img">
+                                <img src="assets/images/gallery/gallery-page-4.jpg" alt="">
+                                <div class="gallery-page__icon">
+                                    <a class="img-popup" href="assets/images/gallery/gallery-page-4.jpg"><span class="fa fa-plus"></span></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
+                    <!--Gallery Page Single End-->
+                    <!--Gallery Page Single Start-->
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="500ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-5.jpg" alt="">
-                                </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Christine eve</a></h4>
-                                    <p class="team__title">Flight captain</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
+                        <div class="gallery-page__single">
+                            <div class="gallery-page__img">
+                                <img src="assets/images/gallery/gallery-page-5.jpg" alt="">
+                                <div class="gallery-page__icon">
+                                    <a class="img-popup" href="assets/images/gallery/gallery-page-5.jpg"><span class="fa fa-plus"></span></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--Team Single End-->
-                    <!--Team Single Start-->
+                    <!--Gallery Page Single End-->
+                    <!--Gallery Page Single Start-->
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="600ms">
-                        <div class="team__single">
-                            <div class="team__single-inner">
-                                <div class="team__img">
-                                    <img src="assets/images/team/team-1-6.jpg" alt="">
-                                </div>
-                                <div class="team__content">
-                                    <h4 class="team__name"><a href="team.php">Kevin martin</a></h4>
-                                    <p class="team__title">Cabin Crew</p>
-                                    <div class="team__social">
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        <a href="#"><i class="fab fa-instagram"></i></a>
-                                    </div>
+                        <div class="gallery-page__single">
+                            <div class="gallery-page__img">
+                                <img src="assets/images/gallery/gallery-page-6.jpg" alt="">
+                                <div class="gallery-page__icon">
+                                    <a class="img-popup" href="assets/images/gallery/gallery-page-6.jpg"><span class="fa fa-plus"></span></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--Team Single End-->
+                    <!--Gallery Page Single End-->
+                    <!--Gallery Page Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="700ms">
+                        <div class="gallery-page__single">
+                            <div class="gallery-page__img">
+                                <img src="assets/images/gallery/gallery-page-7.jpg" alt="">
+                                <div class="gallery-page__icon">
+                                    <a class="img-popup" href="assets/images/gallery/gallery-page-7.jpg"><span class="fa fa-plus"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Gallery Page Single End-->
+                    <!--Gallery Page Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="800ms">
+                        <div class="gallery-page__single">
+                            <div class="gallery-page__img">
+                                <img src="assets/images/gallery/gallery-page-8.jpg" alt="">
+                                <div class="gallery-page__icon">
+                                    <a class="img-popup" href="assets/images/gallery/gallery-page-8.jpg"><span class="fa fa-plus"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Gallery Page Single End-->
+                    <!--Gallery Page Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="900ms">
+                        <div class="gallery-page__single">
+                            <div class="gallery-page__img">
+                                <img src="assets/images/gallery/gallery-page-9.jpg" alt="">
+                                <div class="gallery-page__icon">
+                                    <a class="img-popup" href="assets/images/gallery/gallery-page-9.jpg"><span class="fa fa-plus"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Gallery Page Single End-->
                 </div>
             </div>
         </section>
-        <!--Team End-->
+        <!--Gallery Page End-->
 
         <!--Site Footer Start-->
         <?php
@@ -241,8 +220,7 @@
         <!--Site Footer End-->
 
 
-    </div>
-    <!-- /.page-wrapper -->
+    </div><!-- /.page-wrapper -->
 
 
     <div class="mobile-nav__wrapper">
@@ -267,18 +245,15 @@
                     <i class="fa fa-phone-alt"></i>
                     <a href="tel:666-888-0000">666 888 0000</a>
                 </li>
-            </ul>
-            <!-- /.mobile-nav__contact -->
+            </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
                 <div class="mobile-nav__social">
                     <a href="#" class="fab fa-twitter"></a>
                     <a href="#" class="fab fa-facebook-square"></a>
                     <a href="#" class="fab fa-pinterest-p"></a>
                     <a href="#" class="fab fa-instagram"></a>
-                </div>
-                <!-- /.mobile-nav__social -->
-            </div>
-            <!-- /.mobile-nav__top -->
+                </div><!-- /.mobile-nav__social -->
+            </div><!-- /.mobile-nav__top -->
 
 
 
@@ -292,8 +267,7 @@
         <!-- /.search-popup__overlay -->
         <div class="search-popup__content">
             <form action="#">
-                <label for="search" class="sr-only">search here</label>
-                <!-- /.sr-only -->
+                <label for="search" class="sr-only">search here</label><!-- /.sr-only -->
                 <input type="text" id="search" placeholder="Search Here..." />
                 <button type="submit" aria-label="search submit" class="thm-btn">
                     <i class="icon-magnifying-glass"></i>
@@ -341,6 +315,6 @@
 </body>
 
 
-<!-- Mirrored from jetly-html.vercel.app/main-html/team.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:34:16 GMT -->
+<!-- Mirrored from jetly-html.vercel.app/main-html/destinations.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:34:38 GMT -->
 
 </html>

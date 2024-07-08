@@ -2,12 +2,14 @@
 <html lang="en">
 
 
-<!-- Mirrored from jetly-html.vercel.app/main-html/index-dark.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:34:03 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<!-- Mirrored from jetly-html.vercel.app/main-html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:32:20 GMT -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Home Dark || Jetly || Jetly HTML 5 Template </title>
+    <title> Home One || Jetly || Jetly HTML 5 Template </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -20,9 +22,7 @@
 
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
-    <link
-        href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
@@ -49,7 +49,6 @@
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/jetly.css" />
     <link rel="stylesheet" href="assets/css/jetly-responsive.css" />
-    <link rel="stylesheet" href="assets/css/jetly-dark.css" />
 </head>
 
 <body class="custom-cursor">
@@ -68,193 +67,9 @@
 
 
     <div class="page-wrapper">
-        <header class="main-header">
-            <nav class="main-menu">
-                <div class="main-menu__wrapper">
-                    <div class="main-menu__wrapper-inner">
-                        <div class="main-menu__left">
-                            <div class="main-menu__logo">
-                                <a href="index.html"><img src="assets/images/resources/logo-1.png" alt=""></a>
-                            </div>
-                        </div>
-                        <div class="main-menu__main-menu-box">
-                            <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
-                            <ul class="main-menu__list">
-                                <li class="dropdown current megamenu">
-                                    <a href="index.html">Home </a>
-                                    <ul>
-                                        <li>
-                                            <section class="home-showcase">
-                                                <div class="container">
-                                                    <div class="home-showcase__inner">
-                                                        <div class="row">
-                                                            <div class="col-lg-3">
-                                                                <div class="home-showcase__item">
-                                                                    <div class="home-showcase__image">
-                                                                        <img src="assets/images/home-showcase/home-showcase-1-1.jpg"
-                                                                            alt="">
-                                                                        <div class="home-showcase__buttons">
-                                                                            <a href="index.html"
-                                                                                class="thm-btn home-showcase__buttons__item">Multi
-                                                                                Page</a>
-                                                                            <a href="index-one-page.html"
-                                                                                class="thm-btn home-showcase__buttons__item">One
-                                                                                Page</a>
-                                                                        </div>
-                                                                        <!-- /.home-showcase__buttons -->
-                                                                    </div><!-- /.home-showcase__image -->
-                                                                    <h3 class="home-showcase__title">Home
-                                                                        Page
-                                                                        01</h3>
-                                                                    <!-- /.home-showcase__title -->
-                                                                </div><!-- /.home-showcase__item -->
-                                                            </div><!-- /.col-lg-3 -->
-                                                            <div class="col-lg-3">
-                                                                <div class="home-showcase__item">
-                                                                    <div class="home-showcase__image">
-                                                                        <img src="assets/images/home-showcase/home-showcase-1-2.jpg"
-                                                                            alt="">
-                                                                        <div class="home-showcase__buttons">
-                                                                            <a href="index2.html"
-                                                                                class="thm-btn home-showcase__buttons__item">Multi
-                                                                                Page</a>
-                                                                            <a href="index2-one-page.html"
-                                                                                class="thm-btn home-showcase__buttons__item">One
-                                                                                Page</a>
-                                                                        </div>
-                                                                        <!-- /.home-showcase__buttons -->
-                                                                    </div><!-- /.home-showcase__image -->
-                                                                    <h3 class="home-showcase__title">Home
-                                                                        Page
-                                                                        02
-                                                                    </h3><!-- /.home-showcase__title -->
-                                                                </div><!-- /.home-showcase__item -->
-                                                            </div><!-- /.col-lg-3 -->
-                                                            <div class="col-lg-3">
-                                                                <div class="home-showcase__item">
-                                                                    <div class="home-showcase__image">
-                                                                        <img src="assets/images/home-showcase/home-showcase-1-3.jpg"
-                                                                            alt="">
-                                                                        <div class="home-showcase__buttons">
-                                                                            <a href="index3.html"
-                                                                                class="thm-btn home-showcase__buttons__item">Multi
-                                                                                Page</a>
-                                                                            <a href="index3-one-page.html"
-                                                                                class="thm-btn home-showcase__buttons__item">One
-                                                                                Page</a>
-                                                                        </div>
-                                                                        <!-- /.home-showcase__buttons -->
-                                                                    </div><!-- /.home-showcase__image -->
-                                                                    <h3 class="home-showcase__title">Home
-                                                                        Page
-                                                                        03
-                                                                    </h3><!-- /.home-showcase__title -->
-                                                                </div><!-- /.home-showcase__item -->
-                                                            </div><!-- /.col-lg-3 -->
-                                                            <div class="col-lg-3">
-                                                                <div class="home-showcase__item">
-                                                                    <div class="home-showcase__image">
-                                                                        <img src="assets/images/home-showcase/home-showcase-1-4.jpg"
-                                                                            alt="">
-                                                                        <div class="home-showcase__buttons">
-                                                                            <a href="index-dark.html"
-                                                                                class="thm-btn home-showcase__buttons__item">View
-                                                                                Page</a>
-                                                                        </div>
-                                                                        <!-- /.home-showcase__buttons -->
-                                                                    </div><!-- /.home-showcase__image -->
-                                                                    <h3 class="home-showcase__title">Home
-                                                                        Page
-                                                                        04
-                                                                    </h3><!-- /.home-showcase__title -->
-                                                                </div><!-- /.home-showcase__item -->
-                                                            </div><!-- /.col-lg-3 -->
-                                                        </div><!-- /.row -->
-                                                    </div><!-- /.home-showcase__inner -->
-
-                                                </div><!-- /.container -->
-                                            </section>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown">
-                                    <a href="#">Pages</a>
-                                    <ul class="shadow-box">
-                                        <li><a href="about.html">About</a></li>
-                                        <li><a href="team.html">Team</a></li>
-                                        <li><a href="team-carousel.html">Team Carousel</a></li>
-                                        <li><a href="destinations.html">Destinations</a></li>
-                                        <li><a href="destination-details.html">Destination Details</a></li>
-                                        <li><a href="testimonials.html">Testimonials</a></li>
-                                        <li><a href="testimonials-carousel.html">Testimonials Carousel</a></li>
-                                        <li><a href="gallery.html">Gallery</a></li>
-                                        <li><a href="gallery-carousel.html">Gallery Carousel</a></li>
-                                        <li><a href="faq.html">FAQs</a></li>
-                                        <li><a href="404.html">404 Error</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown">
-                                    <a href="#">Services</a>
-                                    <ul class="shadow-box">
-                                        <li><a href="services.html">Services</a></li>
-                                        <li><a href="services-carousel.html">Service Carousel</a></li>
-                                        <li><a href="business-charter.html">Business Charter</a></li>
-                                        <li><a href="private-charter.html">Private Charter</a></li>
-                                        <li><a href="jet-rentals.html">Jet Rentals</a></li>
-                                        <li><a href="high-profile-people.html">High Profile People</a></li>
-                                        <li><a href="music-tours.html">Music Tours</a></li>
-                                        <li><a href="sports-teams.html">Sports Teams</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown">
-                                    <a href="#">News</a>
-                                    <ul class="shadow-box">
-                                        <li><a href="news.html">News</a></li>
-                                        <li><a href="news-carousel.html">News Carousel</a></li>
-                                        <li><a href="news-sidebar.html">News Sidebar</a></li>
-                                        <li><a href="news-details.html">News Details</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown">
-                                    <a href="#">Shop</a>
-                                    <ul class="shadow-box">
-                                        <li><a href="products.html">Products</a></li>
-                                        <li><a href="product-details.html">Product Details</a></li>
-                                        <li><a href="cart.html">Cart</a></li>
-                                        <li><a href="checkout.html">Checkout</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="contact.html">Contact</a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="main-menu__right">
-                            <div class="main-menu__search-cart-call-box">
-                                <div class="main-menu__search-cart-box">
-                                    <div class="main-menu__search-box">
-                                        <a href="#" class="main-menu__search search-toggler icon-magnifying-glass"></a>
-                                    </div>
-                                    <div class="main-menu__cart-box">
-                                        <a href="cart.html" class="main-menu__cart icon-shopping-cart"></a>
-                                    </div>
-                                </div>
-                                <div class="main-menu__call">
-                                    <div class="main-menu__call-icon">
-                                        <i class="fas fa-phone"></i>
-                                    </div>
-                                    <div class="main-menu__call-content">
-                                        <p class="main-menu__call-sub-title">Call Anytime</p>
-                                        <h5 class="main-menu__call-number"><a href="tel:9288006780">+92 ( 8800 ) -
-                                                6780</a></h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </nav>
-        </header>
+        <?php
+        include "includes/header.php";
+        ?>
 
         <div class="stricky-header stricked-menu main-menu">
             <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
@@ -279,8 +94,7 @@
                 <div class="swiper-wrapper">
 
                     <div class="swiper-slide">
-                        <div class="image-layer"
-                            style="background-image: url(assets/images/backgrounds/main-slider-1-1.jpg);"></div>
+                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-1-1.jpg);"></div>
                         <!-- /.image-layer -->
                         <div class="container">
                             <div class="row">
@@ -289,8 +103,8 @@
                                         <p class="main-slider__sub-title">Save time and fly with comfort</p>
                                         <h2 class="main-slider__title">Luxury Jet <br> Flights</h2>
                                         <div class="main-slider__btn-box">
-                                            <a href="contact.html" class="thm-btn main-slider__btn">Book Now</a>
-                                            <a href="about.html" class="thm-btn main-slider__btn-two">Read More</a>
+                                            <a href="contact.php" class="thm-btn main-slider__btn">Book Now</a>
+                                            <a href="about.php" class="thm-btn main-slider__btn-two">Read More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -299,8 +113,7 @@
                     </div>
 
                     <div class="swiper-slide">
-                        <div class="image-layer"
-                            style="background-image: url(assets/images/backgrounds/main-slider-1-2.jpg);"></div>
+                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-1-2.jpg);"></div>
                         <!-- /.image-layer -->
                         <div class="container">
                             <div class="row">
@@ -309,8 +122,8 @@
                                         <p class="main-slider__sub-title">Save time and fly with comfort</p>
                                         <h2 class="main-slider__title">Luxury Jet <br> Flights</h2>
                                         <div class="main-slider__btn-box">
-                                            <a href="contact.html" class="thm-btn main-slider__btn">Book Now</a>
-                                            <a href="about.html" class="thm-btn main-slider__btn-two">Read More</a>
+                                            <a href="contact.php" class="thm-btn main-slider__btn">Book Now</a>
+                                            <a href="about.php" class="thm-btn main-slider__btn-two">Read More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -319,8 +132,7 @@
                     </div>
 
                     <div class="swiper-slide">
-                        <div class="image-layer"
-                            style="background-image: url(assets/images/backgrounds/main-slider-1-3.jpg);"></div>
+                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-1-3.jpg);"></div>
                         <!-- /.image-layer -->
                         <div class="container">
                             <div class="row">
@@ -329,8 +141,8 @@
                                         <p class="main-slider__sub-title">Save time and fly with comfort</p>
                                         <h2 class="main-slider__title">Luxury Jet <br> Flights</h2>
                                         <div class="main-slider__btn-box">
-                                            <a href="contact.html" class="thm-btn main-slider__btn">Book Now</a>
-                                            <a href="about.html" class="thm-btn main-slider__btn-two">Read More</a>
+                                            <a href="contact.php" class="thm-btn main-slider__btn">Book Now</a>
+                                            <a href="about.php" class="thm-btn main-slider__btn-two">Read More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -364,7 +176,7 @@
                             <div class="feature-one__icon">
                                 <span class="icon-diamond-1"></span>
                             </div>
-                            <h4 class="feature-one__title"><a href="about.html">Luxury & Comfort</a></h4>
+                            <h4 class="feature-one__title"><a href="about.php">Luxury & Comfort</a></h4>
                         </div>
                     </div>
                     <!--Feature One Single End-->
@@ -374,7 +186,7 @@
                             <div class="feature-one__icon">
                                 <span class="icon-safe-flight"></span>
                             </div>
-                            <h4 class="feature-one__title"><a href="about.html">Safe & Secure</a></h4>
+                            <h4 class="feature-one__title"><a href="about.php">Safe & Secure</a></h4>
                         </div>
                     </div>
                     <!--Feature One Single End-->
@@ -384,7 +196,7 @@
                             <div class="feature-one__icon">
                                 <span class="icon-calendar"></span>
                             </div>
-                            <h4 class="feature-one__title"><a href="about.html">Personal Schedule</a></h4>
+                            <h4 class="feature-one__title"><a href="about.php">Personal Schedule</a></h4>
                         </div>
                     </div>
                     <!--Feature One Single End-->
@@ -394,7 +206,7 @@
                             <div class="feature-one__icon">
                                 <span class="icon-airport-1"></span>
                             </div>
-                            <h4 class="feature-one__title"><a href="about.html">Many airports</a></h4>
+                            <h4 class="feature-one__title"><a href="about.php">Many airports</a></h4>
                         </div>
                     </div>
                     <!--Feature One Single End-->
@@ -438,7 +250,7 @@
                             </ul>
                             <div class="about-one__btn-call">
                                 <div class="about-one__btn-box">
-                                    <a href="contact.html" class="thm-btn about-one__btn">Book Now</a>
+                                    <a href="contact.php" class="thm-btn about-one__btn">Book Now</a>
                                 </div>
                                 <div class="about-one__call">
                                     <div class="about-one__call-icon">
@@ -455,8 +267,7 @@
                     </div>
                     <div class="col-xl-6">
                         <div class="about-one__right">
-                            <div class="about-one__img-box wow slideInRight" data-wow-delay="100ms"
-                                data-wow-duration="2500ms">
+                            <div class="about-one__img-box wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
                                 <div class="about-one__img">
                                     <img src="assets/images/resources/about-one-img-1.jpg" alt="">
                                 </div>
@@ -494,7 +305,7 @@
                                     </div>
                                     <div class="feature-two__content-box-top">
                                         <span class="feature-two__content-box-sub-tilte">Collect miles</span>
-                                        <h4 class="feature-two__content-box-title"><a href="contact.html">Get
+                                        <h4 class="feature-two__content-box-title"><a href="contact.php">Get
                                                 discount <br>
                                                 next flights
                                                 with <br> our card</a></h4>
@@ -502,7 +313,7 @@
                                     <p class="feature-two__content-box-text">Non augue egestas, commodo velit eget,
                                         vestibulum tellus. Curabitur vulputate justo elit, at elementum orci
                                         pulvinar vel.</p>
-                                    <a href="contact.html" class="thm-btn feature-two__btn">Get card</a>
+                                    <a href="contact.php" class="thm-btn feature-two__btn">Get card</a>
                                 </div>
                             </div>
                         </div>
@@ -515,11 +326,11 @@
                                 <div class="feature-two__img">
                                     <img src="assets/images/resources/feature-two-1-2.jpg" alt="">
                                     <div class="feature-two__tilte-box">
-                                        <h3 class="feature-two__title"><a href="contact.html">Exclusive <br> new
+                                        <h3 class="feature-two__title"><a href="contact.php">Exclusive <br> new
                                                 offers</a></h3>
                                     </div>
                                     <div class="feature-two__arrow">
-                                        <a href="contact.html"><span class="icon-right-arrow"></span></a>
+                                        <a href="contact.php"><span class="icon-right-arrow"></span></a>
                                     </div>
                                 </div>
                             </div>
@@ -533,11 +344,11 @@
                                 <div class="feature-two__img">
                                     <img src="assets/images/resources/feature-two-1-3.jpg" alt="">
                                     <div class="feature-two__tilte-box">
-                                        <h3 class="feature-two__title"><a href="contact.html">Join our <br> cabin
+                                        <h3 class="feature-two__title"><a href="contact.php">Join our <br> cabin
                                                 crew</a></h3>
                                     </div>
                                     <div class="feature-two__arrow">
-                                        <a href="contact.html"><span class="icon-right-arrow"></span></a>
+                                        <a href="contact.php"><span class="icon-right-arrow"></span></a>
                                     </div>
                                 </div>
                             </div>
@@ -568,8 +379,7 @@
                                 <span class="section-title__tagline">Get your flight</span>
                                 <h2 class="section-title__title">Request for private flight</h2>
                             </div>
-                            <form action="https://jetly-html.vercel.app/main-html/assets/inc/sendemail.php" class="get-flight__form contact-form-validated"
-                                novalidate="novalidate">
+                            <form action="https://jetly-html.vercel.app/main-html/assets/inc/sendemail.php" class="get-flight__form contact-form-validated" novalidate="novalidate">
                                 <div class="row">
                                     <div class="col-xl-6 col-lg-6">
                                         <div class="get-flight__form-input-box">
@@ -657,12 +467,12 @@
                             <div class="services-one__content">
                                 <div class="services-one__title-box">
                                     <span class="services-one__sub-title">Fight For</span>
-                                    <h3 class="services-one__title"><a href="business-charter.html">Business charter</a>
+                                    <h3 class="services-one__title"><a href="business-charter.php">Business charter</a>
                                     </h3>
                                 </div>
                                 <p class="services-one__text">Non augue egestas, commodo velit eget, tellus.</p>
                                 <div class="services-one__arrow">
-                                    <a href="business-charter.html"><i class="fas fa-angle-right"></i></a>
+                                    <a href="business-charter.php"><i class="fas fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -677,12 +487,12 @@
                             <div class="services-one__content">
                                 <div class="services-one__title-box">
                                     <span class="services-one__sub-title">Fight For</span>
-                                    <h3 class="services-one__title"><a href="private-charter.html">Private charter</a>
+                                    <h3 class="services-one__title"><a href="private-charter.php">Private charter</a>
                                     </h3>
                                 </div>
                                 <p class="services-one__text">Non augue egestas, commodo velit eget, tellus.</p>
                                 <div class="services-one__arrow">
-                                    <a href="private-charter.html"><i class="fas fa-angle-right"></i></a>
+                                    <a href="private-charter.php"><i class="fas fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -697,11 +507,11 @@
                             <div class="services-one__content">
                                 <div class="services-one__title-box">
                                     <span class="services-one__sub-title">Fight For</span>
-                                    <h3 class="services-one__title"><a href="jet-rentals.html">Jet rentals</a></h3>
+                                    <h3 class="services-one__title"><a href="jet-rentals.php">Jet rentals</a></h3>
                                 </div>
                                 <p class="services-one__text">Non augue egestas, commodo velit eget, tellus.</p>
                                 <div class="services-one__arrow">
-                                    <a href="jet-rentals.html"><i class="fas fa-angle-right"></i></a>
+                                    <a href="jet-rentals.php"><i class="fas fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -716,12 +526,12 @@
                             <div class="services-one__content">
                                 <div class="services-one__title-box">
                                     <span class="services-one__sub-title">Fight For</span>
-                                    <h3 class="services-one__title"><a href="high-profile-people.html">High profile
+                                    <h3 class="services-one__title"><a href="high-profile-people.php">High profile
                                             people</a></h3>
                                 </div>
                                 <p class="services-one__text">Non augue egestas, commodo velit eget, tellus.</p>
                                 <div class="services-one__arrow">
-                                    <a href="high-profile-people.html"><i class="fas fa-angle-right"></i></a>
+                                    <a href="high-profile-people.php"><i class="fas fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -798,8 +608,7 @@
                     <h2 class="section-title__title">What they’re talking about <br> our flight services</h2>
                 </div>
                 <div class="testimonial-one__bottom">
-                    <div class="testimonial-one__shape-4"
-                        style="background-image: url(assets/images/shapes/testimonial-shape-4-dark.png);"></div>
+                    <div class="testimonial-one__shape-4" style="background-image: url(assets/images/shapes/testimonial-shape-4.png);"></div>
                     <div class="testimonial-one__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
                         "loop": true,
                         "autoplay": true,
@@ -970,8 +779,7 @@
         <section class="special-offer-one">
             <div class="special-offer-one__wrap">
                 <div class="special-offer-one__left">
-                    <div class="special-offer-one__shape-1"
-                        style="background-image: url(assets/images/shapes/special-offer-one-shape-1.png);"></div>
+                    <div class="special-offer-one__shape-1" style="background-image: url(assets/images/shapes/special-offer-one-shape-1.png);"></div>
                     <div class="special-offer-one__shape-2 float-bob-x">
                         <img src="assets/images/shapes/special-offer-one-shape-2.png" alt="">
                     </div>
@@ -984,12 +792,11 @@
                         <p class="special-offer-one__left-text">Non augue egestas, commodo velit eget, vestibulum
                             tellus. Curabitur vulputate justo elit, at elementum pulvinar. Pellentesque habitant morbi
                             tristique.</p>
-                        <a href="about.html" class="thm-btn special-offer__btn">Discover more</a>
+                        <a href="about.php" class="thm-btn special-offer__btn">Discover more</a>
                     </div>
                 </div>
                 <div class="special-offer-one__right">
-                    <div class="special-offer-one__bg"
-                        style="background-image: url(assets/images/backgrounds/special-offer-one-bg.jpg);"></div>
+                    <div class="special-offer-one__bg" style="background-image: url(assets/images/backgrounds/special-offer-one-bg.jpg);"></div>
                     <div class="special-offer-one__toggle">
                         <p>Trips <br> & tours</p>
                     </div>
@@ -1059,7 +866,7 @@
                                                 <li><span>Person:</span> Adult 3</li>
                                             </ul>
                                             <div class="price-one__btn-box">
-                                                <a href="contact.html" class="thm-btn price-one__btn">Book Now</a>
+                                                <a href="contact.php" class="thm-btn price-one__btn">Book Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -1085,7 +892,7 @@
                                                 <li><span>Person:</span> Adult 3</li>
                                             </ul>
                                             <div class="price-one__btn-box">
-                                                <a href="contact.html" class="thm-btn price-one__btn">Book Now</a>
+                                                <a href="contact.php" class="thm-btn price-one__btn">Book Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -1111,7 +918,7 @@
                                                 <li><span>Person:</span> Adult 3</li>
                                             </ul>
                                             <div class="price-one__btn-box">
-                                                <a href="contact.html" class="thm-btn price-one__btn">Book Now</a>
+                                                <a href="contact.php" class="thm-btn price-one__btn">Book Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -1127,13 +934,13 @@
 
         <!--Destination One Start-->
         <section class="destination-one">
-            <div class="destination-one__shape-1"
-                style="background-image: url(assets/images/shapes/destination-one-shape-1.png);"></div>
+            <div class="destination-one__shape-1" style="background-image: url(assets/images/shapes/destination-one-shape-1.png);"></div>
             <div class="container">
                 <div class="section-title text-center">
                     <span class="section-title__tagline">What will you get</span>
                     <h2 class="section-title__title">Checkout the popular jet
-                        <br> charter destinations</h2>
+                        <br> charter destinations
+                    </h2>
                 </div>
                 <div class="row">
                     <!--Destination One Single Start-->
@@ -1144,7 +951,7 @@
                                     <img src="assets/images/resources/destination-1-1.jpg" alt="">
                                 </div>
                                 <div class="destination-one__content">
-                                    <h3 class="destination-one__title"><a href="destination-details.html">Paris -
+                                    <h3 class="destination-one__title"><a href="destination-details.php">Paris -
                                             Barcelona</a></h3>
                                     <div class="destination-one__time">
                                         <div class="destination-one__paris-time">
@@ -1167,7 +974,7 @@
                                     <img src="assets/images/resources/destination-1-2.jpg" alt="">
                                 </div>
                                 <div class="destination-one__content">
-                                    <h3 class="destination-one__title"><a href="destination-details.html">Hamburg –
+                                    <h3 class="destination-one__title"><a href="destination-details.php">Hamburg –
                                             London</a></h3>
                                     <div class="destination-one__time">
                                         <div class="destination-one__paris-time">
@@ -1190,7 +997,7 @@
                                     <img src="assets/images/resources/destination-1-3.jpg" alt="">
                                 </div>
                                 <div class="destination-one__content">
-                                    <h3 class="destination-one__title"><a href="destination-details.html">London –
+                                    <h3 class="destination-one__title"><a href="destination-details.php">London –
                                             Madrid</a></h3>
                                     <div class="destination-one__time">
                                         <div class="destination-one__paris-time">
@@ -1249,34 +1056,34 @@
                 }}'>
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-1-dark.png" alt="">
+                            <img src="assets/images/brand/brand-1-1.png" alt="">
                         </div><!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-2-dark.png" alt="">
+                            <img src="assets/images/brand/brand-1-2.png" alt="">
                         </div><!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-3-dark.png" alt="">
+                            <img src="assets/images/brand/brand-1-3.png" alt="">
                         </div><!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-4-dark.png" alt="">
+                            <img src="assets/images/brand/brand-1-4.png" alt="">
                         </div><!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-5-dark.png" alt="">
+                            <img src="assets/images/brand/brand-1-5.png" alt="">
                         </div><!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-1-dark.png" alt="">
+                            <img src="assets/images/brand/brand-1-1.png" alt="">
                         </div><!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-2-dark.png" alt="">
+                            <img src="assets/images/brand/brand-1-2.png" alt="">
                         </div><!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-3-dark.png" alt="">
+                            <img src="assets/images/brand/brand-1-3.png" alt="">
                         </div><!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-4-dark.png" alt="">
+                            <img src="assets/images/brand/brand-1-4.png" alt="">
                         </div><!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <img src="assets/images/brand/brand-1-5-dark.png" alt="">
+                            <img src="assets/images/brand/brand-1-5.png" alt="">
                         </div><!-- /.swiper-slide -->
                     </div>
                 </div>
@@ -1290,7 +1097,8 @@
                 <div class="section-title text-center">
                     <span class="section-title__tagline">from the Blog Posts</span>
                     <h2 class="section-title__title">Checkout latest aviation
-                        <br> news and articles</h2>
+                        <br> news and articles
+                    </h2>
                 </div>
                 <div class="row">
                     <!--Blog One Single Start-->
@@ -1298,7 +1106,7 @@
                         <div class="blog-one__single">
                             <div class="blog-one__img">
                                 <img src="assets/images/blog/news-1-1.jpg" alt="">
-                                <a href="news-details.html">
+                                <a href="news-details.php">
                                     <span class="blog-one__plus"></span>
                                 </a>
                             </div>
@@ -1308,16 +1116,16 @@
                                 </div>
                                 <ul class="blog-one__meta list-unstyled">
                                     <li>
-                                        <a href="news-details.html"><i class="fas fa-user-circle"></i>Admin</a>
+                                        <a href="news-details.php"><i class="fas fa-user-circle"></i>Admin</a>
                                     </li>
                                     <li>
-                                        <a href="news-details.html"><i class="fas fa-comments"></i>2 Comments</a>
+                                        <a href="news-details.php"><i class="fas fa-comments"></i>2 Comments</a>
                                     </li>
                                 </ul>
-                                <h3 class="blog-one__title"><a href="news-details.html">Few reason’s people choose to
+                                <h3 class="blog-one__title"><a href="news-details.php">Few reason’s people choose to
                                         fly private jet charter</a></h3>
                                 <div class="blog-one__btn">
-                                    <a href="news-details.html">Read More<span class="icon-right-arrow"></span></a>
+                                    <a href="news-details.php">Read More<span class="icon-right-arrow"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -1328,7 +1136,7 @@
                         <div class="blog-one__single">
                             <div class="blog-one__img">
                                 <img src="assets/images/blog/news-1-2.jpg" alt="">
-                                <a href="news-details.html">
+                                <a href="news-details.php">
                                     <span class="blog-one__plus"></span>
                                 </a>
                             </div>
@@ -1338,17 +1146,17 @@
                                 </div>
                                 <ul class="blog-one__meta list-unstyled">
                                     <li>
-                                        <a href="news-details.html"><i class="fas fa-user-circle"></i>Admin</a>
+                                        <a href="news-details.php"><i class="fas fa-user-circle"></i>Admin</a>
                                     </li>
                                     <li>
-                                        <a href="news-details.html"><i class="fas fa-comments"></i>2 Comments</a>
+                                        <a href="news-details.php"><i class="fas fa-comments"></i>2 Comments</a>
                                     </li>
                                 </ul>
-                                <h3 class="blog-one__title"><a href="news-details.html">A first-time flyer’s guide to
+                                <h3 class="blog-one__title"><a href="news-details.php">A first-time flyer’s guide to
                                         private jets
                                         charters</a></h3>
                                 <div class="blog-one__btn">
-                                    <a href="news-details.html">Read More<span class="icon-right-arrow"></span></a>
+                                    <a href="news-details.php">Read More<span class="icon-right-arrow"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -1359,7 +1167,7 @@
                         <div class="blog-one__single">
                             <div class="blog-one__img">
                                 <img src="assets/images/blog/news-1-3.jpg" alt="">
-                                <a href="news-details.html">
+                                <a href="news-details.php">
                                     <span class="blog-one__plus"></span>
                                 </a>
                             </div>
@@ -1369,16 +1177,16 @@
                                 </div>
                                 <ul class="blog-one__meta list-unstyled">
                                     <li>
-                                        <a href="news-details.html"><i class="fas fa-user-circle"></i>Admin</a>
+                                        <a href="news-details.php"><i class="fas fa-user-circle"></i>Admin</a>
                                     </li>
                                     <li>
-                                        <a href="news-details.html"><i class="fas fa-comments"></i>2 Comments</a>
+                                        <a href="news-details.php"><i class="fas fa-comments"></i>2 Comments</a>
                                     </li>
                                 </ul>
-                                <h3 class="blog-one__title"><a href="news-details.html">Rent a private jet everything
+                                <h3 class="blog-one__title"><a href="news-details.php">Rent a private jet everything
                                         you need to know about cost</a></h3>
                                 <div class="blog-one__btn">
-                                    <a href="news-details.html">Read More<span class="icon-right-arrow"></span></a>
+                                    <a href="news-details.php">Read More<span class="icon-right-arrow"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -1404,7 +1212,8 @@
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">Subscribe Now</span>
                                 <h2 class="section-title__title">Want to know about
-                                    <br> our offers first?</h2>
+                                    <br> our offers first?
+                                </h2>
                             </div>
                         </div>
                     </div>
@@ -1413,8 +1222,7 @@
                             <form class="newsletter__form">
                                 <div class="newsletter__input-box">
                                     <input type="email" placeholder="Enter email address" name="email">
-                                    <button type="submit" class="newsletter__btn">Subscribe<i
-                                            class="fas fa-plane"></i></button>
+                                    <button type="submit" class="newsletter__btn">Subscribe<i class="fas fa-plane"></i></button>
                                 </div>
                             </form>
                             <div class="checked-box">
@@ -1429,107 +1237,9 @@
         <!--Newsletter One End-->
 
         <!--Site Footer Start-->
-        <footer class="site-footer">
-            <div class="container">
-                <div class="site-footer__inner">
-                    <div class="site-footer__shape-1 zoom-fade-3">
-                        <img src="assets/images/shapes/site-footer-shape-1.png" alt="">
-                    </div>
-                    <div class="site-footer__top">
-                        <div class="row">
-                            <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-                                <div class="footer-widget__column footer-widget__about">
-                                    <div class="footer-widget__logo">
-                                        <a href="#"><img src="assets/images/resources/footer-logo.png" alt=""></a>
-                                    </div>
-                                    <div class="footer-widget__about-text-box">
-                                        <p class="footer-widget__about-text">Private jet charters save your time and
-                                            give
-                                            you comfort.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-                                <div class="footer-widget__column footer-widget__Explore">
-                                    <div class="footer-widget__title-box">
-                                        <h3 class="footer-widget__title">Explore</h3>
-                                    </div>
-                                    <ul class="footer-widget__Explore-list list-unstyled">
-                                        <li><a href="about.html">About</a></li>
-                                        <li><a href="jet-rentals.html">Private Jet Catering</a></li>
-                                        <li><a href="destinations.html">Destinations</a></li>
-                                        <li><a href="contact.html">Flight Search</a></li>
-                                        <li><a href="contact.html">Book Flight</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-                                <div class="footer-widget__column footer-widget__links">
-                                    <div class="footer-widget__title-box">
-                                        <h3 class="footer-widget__title">Links</h3>
-                                    </div>
-                                    <ul class="footer-widget__Explore-list list-unstyled">
-                                        <li><a href="about.html">Terms of Use</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
-                                        <li><a href="news.html">News & Press</a></li>
-                                        <li><a href="about.html">Games</a></li>
-                                        <li><a href="faq.html">FAQs</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-                                <div class="footer-widget__column footer-widget__Contact">
-                                    <div class="footer-widget__title-box">
-                                        <h3 class="footer-widget__title">Contact</h3>
-                                    </div>
-                                    <ul class="footer-widget__Contact-list list-unstyled">
-                                        <li>
-                                            <div class="icon">
-                                                <span class="fas fa-phone"></span>
-                                            </div>
-                                            <div class="text">
-                                                <p><a href="tel:+9288006780">+92 ( 8800 ) - 6780</a></p>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="icon">
-                                                <span class="fas fa-envelope"></span>
-                                            </div>
-                                            <div class="text">
-                                                <p><a href="mailto:needhelp@company.com">needhelp@company.com</a></p>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="icon">
-                                                <span class="fas fa-map-marker"></span>
-                                            </div>
-                                            <div class="text">
-                                                <p>30 broklyn golden street. New York</p>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="site-footer__bottom">
-                        <div class="site-footer__bottom-inner">
-                            <div class="site-footer__bottom-left">
-                                <p class="site-footer__bottom-text">© Copyright 2022 by <a href="#">Jetly.com</a></p>
-                            </div>
-                            <div class="site-footer__bottom-right">
-                                <div class="site-footer__social">
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
+        <?php
+        include "includes/footer.php";
+        ?>
         <!--Site Footer End-->
 
 
@@ -1543,8 +1253,7 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-1.png" width="143"
-                        alt="" /></a>
+                <a href="index.php" aria-label="logo image"><img src="assets/images/resources/logo-1.png" width="143" alt="" /></a>
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>
@@ -1629,5 +1338,6 @@
 </body>
 
 
-<!-- Mirrored from jetly-html.vercel.app/main-html/index-dark.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:34:07 GMT -->
+<!-- Mirrored from jetly-html.vercel.app/main-html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:33:06 GMT -->
+
 </html>

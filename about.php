@@ -86,7 +86,7 @@
                 <div class="page-header__inner">
                     <h2>About us</h2>
                     <ul class="thm-breadcrumb list-unstyled">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><span>/</span></li>
                         <li>pages</li>
                     </ul>
@@ -353,7 +353,7 @@
                     </div>
                     <div class="video-one__button">
                         <div class="video-one__btn-one">
-                            <a href="contact.html" class="thm-btn">Book Now</a>
+                            <a href="contact.php" class="thm-btn">Book Now</a>
                         </div>
                         <div class="video-one__btn-two">
                             <a href="about.php" class="thm-btn">Read More</a>
@@ -534,7 +534,7 @@
                         <h3>Save your time and fly with jetly</h3>
                     </div>
                     <div class="cta-one__btn-box">
-                        <a href="contact.html" class="thm-btn cta-one__btn">call for booking</a>
+                        <a href="contact.php" class="thm-btn cta-one__btn">call for booking</a>
                     </div>
                 </div>
             </div>
@@ -542,105 +542,9 @@
         <!--Cta Start End-->
 
         <!--Site Footer Start-->
-        <footer class="site-footer">
-            <div class="container">
-                <div class="site-footer__inner">
-                    <div class="site-footer__shape-1 zoom-fade-3">
-                        <img src="assets/images/shapes/site-footer-shape-1.png" alt="">
-                    </div>
-                    <div class="site-footer__top">
-                        <div class="row">
-                            <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-                                <div class="footer-widget__column footer-widget__about">
-                                    <div class="footer-widget__logo">
-                                        <a href="#"><img src="assets/images/resources/footer-logo.png" alt=""></a>
-                                    </div>
-                                    <div class="footer-widget__about-text-box">
-                                        <p class="footer-widget__about-text">Private jet charters save your time and give you comfort.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-                                <div class="footer-widget__column footer-widget__Explore">
-                                    <div class="footer-widget__title-box">
-                                        <h3 class="footer-widget__title">Explore</h3>
-                                    </div>
-                                    <ul class="footer-widget__Explore-list list-unstyled">
-                                        <li><a href="about.php">About</a></li>
-                                        <li><a href="jet-rentals.html">Private Jet Catering</a></li>
-                                        <li><a href="destinations.html">Destinations</a></li>
-                                        <li><a href="contact.html">Flight Search</a></li>
-                                        <li><a href="contact.html">Book Flight</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-                                <div class="footer-widget__column footer-widget__links">
-                                    <div class="footer-widget__title-box">
-                                        <h3 class="footer-widget__title">Links</h3>
-                                    </div>
-                                    <ul class="footer-widget__Explore-list list-unstyled">
-                                        <li><a href="about.php">Terms of Use</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
-                                        <li><a href="news.html">News & Press</a></li>
-                                        <li><a href="about.php">Games</a></li>
-                                        <li><a href="faq.html">FAQs</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-                                <div class="footer-widget__column footer-widget__Contact">
-                                    <div class="footer-widget__title-box">
-                                        <h3 class="footer-widget__title">Contact</h3>
-                                    </div>
-                                    <ul class="footer-widget__Contact-list list-unstyled">
-                                        <li>
-                                            <div class="icon">
-                                                <span class="fas fa-phone"></span>
-                                            </div>
-                                            <div class="text">
-                                                <p><a href="tel:+9288006780">+92 ( 8800 ) - 6780</a></p>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="icon">
-                                                <span class="fas fa-envelope"></span>
-                                            </div>
-                                            <div class="text">
-                                                <p><a href="mailto:needhelp@company.com">needhelp@company.com</a></p>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="icon">
-                                                <span class="fas fa-map-marker"></span>
-                                            </div>
-                                            <div class="text">
-                                                <p>30 broklyn golden street. New York</p>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="site-footer__bottom">
-                        <div class="site-footer__bottom-inner">
-                            <div class="site-footer__bottom-left">
-                                <p class="site-footer__bottom-text">© Copyright 2022 by <a href="#">Jetly.com</a></p>
-                            </div>
-                            <div class="site-footer__bottom-right">
-                                <div class="site-footer__social">
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
+        <?php
+        include "includes/footer.php";
+        ?>
         <!--Site Footer End-->
 
 
@@ -655,7 +559,7 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="143" alt="" /></a>
+                <a href="index.php" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="143" alt="" /></a>
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>
