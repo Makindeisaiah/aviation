@@ -2,12 +2,15 @@
 <html lang="en">
 
 
-<!-- Mirrored from jetly-html.vercel.app/main-html/index3-one-page.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:34:03 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<!-- Mirrored from jetly-html.vercel.app/main-html/index3.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:30:01 GMT -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<!-- /Added by HTTrack -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Home Three || Jetly || Jetly HTML 5 Template </title>
+    <title> Home || JetFly</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
@@ -20,9 +23,7 @@
 
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
-    <link
-        href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
@@ -77,7 +78,7 @@
                                     <i class="fas fa-map-marker-alt"></i>
                                 </div>
                                 <div class="text">
-                                    <p>30 Commercial road fratton, Australia</p>
+                                    <p>Ikeja, Lagos, Nigeria</p>
                                 </div>
                             </li>
                             <li>
@@ -85,7 +86,7 @@
                                     <i class="fas fa-envelope"></i>
                                 </div>
                                 <div class="text">
-                                    <p><a href="mailto:needhelp@company.com">needhelp@company.com</a></p>
+                                    <p><a href="mailto:needhelp@company.com">contact@jetfly.com</a></p>
                                 </div>
                             </li>
                         </ul>
@@ -94,7 +95,7 @@
                         <div class="main-header-three__social">
                             <a href="#"><i class="fab fa-twitter"></i></a>
                             <a href="#"><i class="fab fa-facebook"></i></a>
-                            <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                            <!-- <a href="#"><i class="fab fa-pinterest-p"></i></a> -->
                             <a href="#"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
@@ -105,133 +106,57 @@
                     <div class="main-menu-three__wrapper-inner">
                         <div class="main-menu-three__left">
                             <div class="main-menu-three__logo">
-                                <a href="index.html"><img src="assets/images/resources/logo-2.png" alt=""></a>
+                                <a href="index3.html"><img src="assets/images/resources/logo-2.png" alt=""></a>
                             </div>
                         </div>
                         <div class="main-menu-three__main-menu-box">
                             <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
-                            <ul class="main-menu__list one-page-scroll-menu">
-                                <li class="dropdown current megamenu scrollToLink">
-                                    <a href="#home">Home </a>
-                                    <ul>
-                                        <li>
-                                            <section class="home-showcase">
-                                                <div class="container">
-                                                    <div class="home-showcase__inner">
-                                                        <div class="row">
-                                                            <div class="col-lg-3">
-                                                                <div class="home-showcase__item">
-                                                                    <div class="home-showcase__image">
-                                                                        <img src="assets/images/home-showcase/home-showcase-1-1.jpg"
-                                                                            alt="">
-                                                                        <div class="home-showcase__buttons">
-                                                                            <a href="index.html"
-                                                                                class="thm-btn home-showcase__buttons__item">Multi
-                                                                                Page</a>
-                                                                            <a href="index-one-page.html"
-                                                                                class="thm-btn home-showcase__buttons__item">One
-                                                                                Page</a>
-                                                                        </div>
-                                                                        <!-- /.home-showcase__buttons -->
-                                                                    </div><!-- /.home-showcase__image -->
-                                                                    <h3 class="home-showcase__title">Home
-                                                                        Page
-                                                                        01</h3>
-                                                                    <!-- /.home-showcase__title -->
-                                                                </div><!-- /.home-showcase__item -->
-                                                            </div><!-- /.col-lg-3 -->
-                                                            <div class="col-lg-3">
-                                                                <div class="home-showcase__item">
-                                                                    <div class="home-showcase__image">
-                                                                        <img src="assets/images/home-showcase/home-showcase-1-2.jpg"
-                                                                            alt="">
-                                                                        <div class="home-showcase__buttons">
-                                                                            <a href="index2.html"
-                                                                                class="thm-btn home-showcase__buttons__item">Multi
-                                                                                Page</a>
-                                                                            <a href="index2-one-page.html"
-                                                                                class="thm-btn home-showcase__buttons__item">One
-                                                                                Page</a>
-                                                                        </div>
-                                                                        <!-- /.home-showcase__buttons -->
-                                                                    </div><!-- /.home-showcase__image -->
-                                                                    <h3 class="home-showcase__title">Home
-                                                                        Page
-                                                                        02
-                                                                    </h3><!-- /.home-showcase__title -->
-                                                                </div><!-- /.home-showcase__item -->
-                                                            </div><!-- /.col-lg-3 -->
-                                                            <div class="col-lg-3">
-                                                                <div class="home-showcase__item">
-                                                                    <div class="home-showcase__image">
-                                                                        <img src="assets/images/home-showcase/home-showcase-1-3.jpg"
-                                                                            alt="">
-                                                                        <div class="home-showcase__buttons">
-                                                                            <a href="index3.html"
-                                                                                class="thm-btn home-showcase__buttons__item">Multi
-                                                                                Page</a>
-                                                                            <a href="index3-one-page.html"
-                                                                                class="thm-btn home-showcase__buttons__item">One
-                                                                                Page</a>
-                                                                        </div>
-                                                                        <!-- /.home-showcase__buttons -->
-                                                                    </div><!-- /.home-showcase__image -->
-                                                                    <h3 class="home-showcase__title">Home
-                                                                        Page
-                                                                        03
-                                                                    </h3><!-- /.home-showcase__title -->
-                                                                </div><!-- /.home-showcase__item -->
-                                                            </div><!-- /.col-lg-3 -->
-                                                            <div class="col-lg-3">
-                                                                <div class="home-showcase__item">
-                                                                    <div class="home-showcase__image">
-                                                                        <img src="assets/images/home-showcase/home-showcase-1-4.jpg"
-                                                                            alt="">
-                                                                        <div class="home-showcase__buttons">
-                                                                            <a href="index-dark.html"
-                                                                                class="thm-btn home-showcase__buttons__item">View
-                                                                                Page</a>
-                                                                        </div>
-                                                                        <!-- /.home-showcase__buttons -->
-                                                                    </div><!-- /.home-showcase__image -->
-                                                                    <h3 class="home-showcase__title">Home
-                                                                        Page
-                                                                        04
-                                                                    </h3><!-- /.home-showcase__title -->
-                                                                </div><!-- /.home-showcase__item -->
-                                                            </div><!-- /.col-lg-3 -->
-                                                        </div><!-- /.row -->
-                                                    </div><!-- /.home-showcase__inner -->
-
-                                                </div><!-- /.container -->
-                                            </section>
-                                        </li>
+                            <ul class="main-menu__list">
+                                <li class="dropdown current megamenu">
+                                    <a href="index3.php">Home </a>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#">Pages</a>
+                                    <ul class="shadow-box">
+                                        <li><a href="about.html">About</a></li>
+                                        <li><a href="team.php">Team</a></li>
+                                        <li><a href="team-carousel.html">Team Carousel</a></li>
+                                        <li><a href="destinations.html">Destinations</a></li>
+                                        <li><a href="destination-details.html">Destination Details</a></li>
+                                        <li><a href="testimonials.html">Testimonials</a></li>
+                                        <li><a href="testimonials-carousel.html">Testimonials Carousel</a></li>
+                                        <li><a href="gallery.html">Gallery</a></li>
+                                        <li><a href="gallery-carousel.html">Gallery Carousel</a></li>
+                                        <li><a href="faq.html">FAQs</a></li>
+                                        <li><a href="404.html">404 Error</a></li>
                                     </ul>
                                 </li>
-                                <li class="scrollToLink">
-                                    <a href="#about">About</a>
+                                <li class="dropdown">
+                                    <a href="#">Services</a>
+                                    <ul class="shadow-box">
+                                        <li><a href="services.html">Services</a></li>
+                                        <li><a href="services-carousel.html">Service Carousel</a></li>
+                                        <li><a href="business-charter.html">Business Charter</a></li>
+                                        <li><a href="private-charter.html">Private Charter</a></li>
+                                        <li><a href="jet-rentals.html">Jet Rentals</a></li>
+                                        <li><a href="high-profile-people.html">High Profile People</a></li>
+                                        <li><a href="music-tours.html">Music Tours</a></li>
+                                        <li><a href="sports-teams.html">Sports Teams</a></li>
+                                    </ul>
                                 </li>
-                                <li class="scrollToLink">
-                                    <a href="#services">Services</a>
+                                <li class="dropdown">
+                                    <a href="#">News</a>
+                                    <ul class="shadow-box">
+                                        <li><a href="news.html">News</a></li>
+                                        <li><a href="news-carousel.html">News Carousel</a></li>
+                                        <li><a href="news-sidebar.html">News Sidebar</a></li>
+                                        <li><a href="news-details.html">News Details</a></li>
+                                    </ul>
                                 </li>
-                                <li class="scrollToLink">
-                                    <a href="#benefits">Benefits</a>
-                                </li>
-                                <li class="scrollToLink">
-                                    <a href="#news">News</a>
+                                <li>
+                                    <a href="contact.html">Contact</a>
                                 </li>
                             </ul>
-                        </div>
-                        <div class="main-menu-three__right">
-                            <div class="main-menu-three__search-cart-box">
-                                <div class="main-menu-three__search-box">
-                                    <a href="#"
-                                        class="main-menu-three__search search-toggler icon-magnifying-glass"></a>
-                                </div>
-                                <div class="main-menu-three__cart-box">
-                                    <a href="cart.html" class="main-menu-three__cart icon-shopping-cart"></a>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -239,11 +164,13 @@
         </header>
 
         <div class="stricky-header stricked-menu main-menu main-menu-three">
-            <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
-        </div><!-- /.stricky-header -->
+            <div class="sticky-header__content"></div>
+            <!-- /.sticky-header__content -->
+        </div>
+        <!-- /.stricky-header -->
 
         <!--Main Slider Start-->
-        <section class="main-slider-three clearfix" id="home">
+        <section class="main-slider-three clearfix">
             <div class="swiper-container thm-swiper__slider" data-swiper-options='{
                 "slidesPerView": 1,
                 "allowTouchMove": false,
@@ -261,8 +188,7 @@
                 <div class="swiper-wrapper">
 
                     <div class="swiper-slide">
-                        <div class="image-layer-three"
-                            style="background-image: url(assets/images/backgrounds/cloud-1.png);"></div>
+                        <div class="image-layer-three" style="background-image: url(assets/images/backgrounds/cloud-1.png);"></div>
                         <!-- /.image-layer -->
                         <div class="main-slider-three__img">
                             <img src="assets/images/resources/main-slider-three-img-1.png" alt="" class="float-bob-y">
@@ -284,8 +210,7 @@
                     </div>
 
                     <div class="swiper-slide">
-                        <div class="image-layer-three float-bob-x"
-                            style="background-image: url(assets/images/backgrounds/main-slider-3-1.png);"></div>
+                        <div class="image-layer-three float-bob-x" style="background-image: url(assets/images/backgrounds/main-slider-3-1.png);"></div>
                         <!-- /.image-layer -->
                         <div class="main-slider-three__img">
                             <img src="assets/images/resources/main-slider-three-img-1.png" alt="" class="float-bob-y">
@@ -324,8 +249,7 @@
             </div>
             <div class="container">
                 <div class="request__top">
-                    <form action="https://jetly-html.vercel.app/main-html/assets/inc/sendemail.php" class="request__form contact-form-validated"
-                        novalidate="novalidate">
+                    <form action="https://jetly-html.vercel.app/main-html/assets/inc/sendemail.php" class="request__form contact-form-validated" novalidate="novalidate">
                         <ul class="list-unstyled request__input-list clearfix">
                             <li>
                                 <div class="request__input-box">
@@ -355,18 +279,17 @@
                                     <div class="select-box">
                                         <select class="wide">
                                             <option data-display="Passengers">Passengers</option>
-                                            <option value="1">Passengers 01</option>
-                                            <option value="2">Passengers 02</option>
-                                            <option value="3">Passengers 03</option>
-                                            <option value="4">Passengers 04</option>
+                                            <option value="1">2 - 4 </option>
+                                            <option value="2">5 - 8</option>
+                                            <option value="3">9 - 13</option>
+                                            <option value="4">14 - 19</option>
                                         </select>
                                     </div>
                                 </div>
                             </li>
                         </ul>
                         <div class="request__bottom">
-                            <p class="request__bottom-text"> <span>*</span> After sending request. We’ll contact you for
-                                more details about charter.</p>
+                            <p class="request__bottom-text"> <span>*</span> After sending request. We’ll contact you for more details about charter.</p>
                             <button type="submit" class="thm-btn request__btn">Book Now</button>
                         </div>
                     </form>
@@ -376,13 +299,12 @@
         <!--Request End-->
 
         <!--About Three Start-->
-        <section class="about-three" id="about">
+        <section class="about-three">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-6">
                         <div class="about-three__left">
-                            <div class="about-three__img-box wow slideInLeft" data-wow-delay="100ms"
-                                data-wow-duration="2500ms">
+                            <div class="about-three__img-box wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                                 <div class="about-three__img">
                                     <img src="assets/images/resources/about-three-1.jpg" alt="">
                                 </div>
@@ -394,7 +316,8 @@
                                             }'>
                                                 25 Years Experience
                                             </span>
-                                        </div><!-- /.curved-circle -->
+                                        </div>
+                                        <!-- /.curved-circle -->
                                     </div>
                                     <div class="about-three__icon-box">
                                         <div class="about-three__icon">
@@ -412,13 +335,10 @@
                         <div class="about-three__right">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">What will you get</span>
-                                <h2 class="section-title__title">Private jet for business
-                                    and leisure purpose</h2>
+                                <h2 class="section-title__title">Private jet for business and leisure purpose</h2>
                             </div>
-                            <p class="about-three__text-one">Non augue egestas, commodo velit eget, vestibulum tellus.
-                                Curabitur vulputate justo elit, at elementum orci pulvinar vel.</p>
-                            <p class="about-three__text-two">Pellentesque habitant morbi tristique. Pellentesque
-                                habitant morbi tristique. Ut non augue egestas, commodo velit eget, vestibulum tellus.
+                            <p class="about-three__text-one">Non augue egestas, commodo velit eget, vestibulum tellus. Curabitur vulputate justo elit, at elementum orci pulvinar vel.</p>
+                            <p class="about-three__text-two">Pellentesque habitant morbi tristique. Pellentesque habitant morbi tristique. Ut non augue egestas, commodo velit eget, vestibulum tellus.
                             </p>
                             <ul class="about-three__points list-unstyled">
                                 <li>
@@ -489,34 +409,44 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <img src="assets/images/brand/brand-1-1.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                        </div>
+                        <!-- /.swiper-slide -->
                         <div class="swiper-slide">
                             <img src="assets/images/brand/brand-1-2.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                        </div>
+                        <!-- /.swiper-slide -->
                         <div class="swiper-slide">
                             <img src="assets/images/brand/brand-1-3.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                        </div>
+                        <!-- /.swiper-slide -->
                         <div class="swiper-slide">
                             <img src="assets/images/brand/brand-1-4.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                        </div>
+                        <!-- /.swiper-slide -->
                         <div class="swiper-slide">
                             <img src="assets/images/brand/brand-1-5.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                        </div>
+                        <!-- /.swiper-slide -->
                         <div class="swiper-slide">
                             <img src="assets/images/brand/brand-1-1.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                        </div>
+                        <!-- /.swiper-slide -->
                         <div class="swiper-slide">
                             <img src="assets/images/brand/brand-1-2.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                        </div>
+                        <!-- /.swiper-slide -->
                         <div class="swiper-slide">
                             <img src="assets/images/brand/brand-1-3.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                        </div>
+                        <!-- /.swiper-slide -->
                         <div class="swiper-slide">
                             <img src="assets/images/brand/brand-1-4.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                        </div>
+                        <!-- /.swiper-slide -->
                         <div class="swiper-slide">
                             <img src="assets/images/brand/brand-1-5.png" alt="">
-                        </div><!-- /.swiper-slide -->
+                        </div>
+                        <!-- /.swiper-slide -->
                     </div>
                 </div>
                 <!-- If we need navigation buttons -->
@@ -542,11 +472,8 @@
                 <div class="row">
                     <div class="col-xl-7 col-lg-8">
                         <div class="we-fly__left">
-                            <h3 class="we-fly__title count-box">We fly with you to over <span
-                                    class="count-text we-fly__count" data-stop="6800" data-speed="1500">00</span>
-                                destinations world wide</h3>
-                            <p class="we-fly__text">Curly Airline proudly raises the bar and exceeds the standard for
-                                luxury and <br> corporate private jet charter services.</p>
+                            <h3 class="we-fly__title count-box">We fly with you to over <span class="count-text we-fly__count" data-stop="6800" data-speed="1500">00</span> destinations world wide</h3>
+                            <p class="we-fly__text">Curly Airline proudly raises the bar and exceeds the standard for luxury and <br> corporate private jet charter services.</p>
                             <div class="we-fly__btn-boxes">
                                 <div class="we-fly__btn-one-box">
                                     <a href="contact.html" class="thm-btn we-fly__btn-one">Book Now</a>
@@ -563,7 +490,7 @@
         <!--We Fly End-->
 
         <!--Charters Start-->
-        <section class="charters" id="services">
+        <section class="charters">
             <div class="container">
                 <div class="section-title text-center">
                     <span class="section-title__tagline">luxury charters</span>
@@ -622,7 +549,7 @@
         <!--Charters End-->
 
         <!--Benefits One Start-->
-        <section class="benefits-one" id="benefits">
+        <section class="benefits-one">
             <div class="benefits-one__shape-1 float-bob-x">
                 <img src="assets/images/shapes/benefits-one-shape-1.png" alt="">
             </div>
@@ -635,11 +562,9 @@
                         <div class="benefits-one__left">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">Our Benefits</span>
-                                <h2 class="section-title__title">Learn more about
-                                    private jet benefits</h2>
+                                <h2 class="section-title__title">Learn more about private jet benefits</h2>
                             </div>
-                            <p class="benefits-one__text">Lorem ipsum dolor sit amet, elit. Curabitur condimentum, <br>
-                                lacus non faucibus congue.</p>
+                            <p class="benefits-one__text">Lorem ipsum dolor sit amet, elit. Curabitur condimentum, <br> lacus non faucibus congue.</p>
                             <a href="about.html" class="thm-btn benefits-one__btn">Dicover more</a>
                         </div>
                     </div>
@@ -750,8 +675,7 @@
 
         <!--Counter Two Start-->
         <section class="counter-two">
-            <div class="counter-two__shape-1"
-                style="background-image: url(assets/images/shapes/counter-two-shape-1.png);"></div>
+            <div class="counter-two__shape-1" style="background-image: url(assets/images/shapes/counter-two-shape-1.png);"></div>
             <div class="container">
                 <ul class="list-unstyled counter-two__list">
                     <li class="counter-two__single wow fadeInUp" data-wow-delay="100ms">
@@ -796,15 +720,12 @@
                                 <span class="section-title__tagline">What will you get</span>
                                 <h2 class="section-title__title">Popular charter destinations</h2>
                             </div>
-                            <p class="destination-three__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                Curabitur condimentum, lacus <br> non faucibus congue, lectus quam viverra nulla, quis
-                                egestas neque sapien ac magna.</p>
+                            <p class="destination-three__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur condimentum, lacus <br> non faucibus congue, lectus quam viverra nulla, quis egestas neque sapien ac magna.</p>
                         </div>
                     </div>
                     <div class="col-xl-8">
                         <div class="destination-three__right">
-                            <div class="destination-three__carousel owl-carousel owl-theme thm-owl__carousel"
-                                data-owl-options='{
+                            <div class="destination-three__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
                                 "loop": true,
                                 "autoplay": false,
                                 "margin": 30,
@@ -836,8 +757,7 @@
                                                 <img src="assets/images/resources/destination-2-1.jpg" alt="">
                                             </div>
                                             <div class="destination-one__content">
-                                                <h3 class="destination-one__title"><a
-                                                        href="destination-details.html">Paris - Barcelona</a></h3>
+                                                <h3 class="destination-one__title"><a href="destination-details.html">Paris - Barcelona</a></h3>
                                                 <div class="destination-one__time">
                                                     <div class="destination-one__paris-time">
                                                         <p>Departure: <span>16:50</span></p>
@@ -859,8 +779,7 @@
                                                 <img src="assets/images/resources/destination-1-2.jpg" alt="">
                                             </div>
                                             <div class="destination-one__content">
-                                                <h3 class="destination-one__title"><a
-                                                        href="destination-details.html">Hamburg – London</a></h3>
+                                                <h3 class="destination-one__title"><a href="destination-details.html">Hamburg – London</a></h3>
                                                 <div class="destination-one__time">
                                                     <div class="destination-one__paris-time">
                                                         <p>Departure: <span>16:50</span></p>
@@ -882,8 +801,7 @@
                                                 <img src="assets/images/resources/destination-1-3.jpg" alt="">
                                             </div>
                                             <div class="destination-one__content">
-                                                <h3 class="destination-one__title"><a
-                                                        href="destination-details.html">London – Madrid</a></h3>
+                                                <h3 class="destination-one__title"><a href="destination-details.html">London – Madrid</a></h3>
                                                 <div class="destination-one__time">
                                                     <div class="destination-one__paris-time">
                                                         <p>Departure: <span>16:50</span></p>
@@ -931,8 +849,7 @@
                             <span class="section-title__tagline">What We Do</span>
                             <h2 class="section-title__title">Giving a different feels of traveling with us</h2>
                         </div>
-                        <p class="we-do__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                            tempor incididunt ut labore et dolore aliqua.</p>
+                        <p class="we-do__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore aliqua.</p>
                         <div class="we-do__bottom">
                             <ul class="list-unstyled we-do__points">
                                 <li>
@@ -964,7 +881,7 @@
         <!--We Do End-->
 
         <!--Blog Tne Start-->
-        <section class="blog-two" id="news">
+        <section class="blog-two">
             <div class="container">
                 <div class="section-title text-center">
                     <span class="section-title__tagline">from the Blog Posts</span>
@@ -1100,9 +1017,7 @@
                                         <a href="#"><img src="assets/images/resources/footer-logo.png" alt=""></a>
                                     </div>
                                     <div class="footer-widget__about-text-box">
-                                        <p class="footer-widget__about-text">Private jet charters save your time and
-                                            give
-                                            you comfort.</p>
+                                        <p class="footer-widget__about-text">Private jet charters save your time and give you comfort.</p>
                                     </div>
                                 </div>
                             </div>
@@ -1190,7 +1105,8 @@
         <!--Site Footer End-->
 
 
-    </div><!-- /.page-wrapper -->
+    </div>
+    <!-- /.page-wrapper -->
 
 
     <div class="mobile-nav__wrapper">
@@ -1200,8 +1116,7 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-1.png" width="143"
-                        alt="" /></a>
+                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-1.png" width="143" alt="" /></a>
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>
@@ -1216,15 +1131,18 @@
                     <i class="fa fa-phone-alt"></i>
                     <a href="tel:666-888-0000">666 888 0000</a>
                 </li>
-            </ul><!-- /.mobile-nav__contact -->
+            </ul>
+            <!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
                 <div class="mobile-nav__social">
                     <a href="#" class="fab fa-twitter"></a>
                     <a href="#" class="fab fa-facebook-square"></a>
                     <a href="#" class="fab fa-pinterest-p"></a>
                     <a href="#" class="fab fa-instagram"></a>
-                </div><!-- /.mobile-nav__social -->
-            </div><!-- /.mobile-nav__top -->
+                </div>
+                <!-- /.mobile-nav__social -->
+            </div>
+            <!-- /.mobile-nav__top -->
 
 
 
@@ -1238,7 +1156,8 @@
         <!-- /.search-popup__overlay -->
         <div class="search-popup__content">
             <form action="#">
-                <label for="search" class="sr-only">search here</label><!-- /.sr-only -->
+                <label for="search" class="sr-only">search here</label>
+                <!-- /.sr-only -->
                 <input type="text" id="search" placeholder="Search Here..." />
                 <button type="submit" aria-label="search submit" class="thm-btn">
                     <i class="icon-magnifying-glass"></i>
@@ -1286,5 +1205,6 @@
 </body>
 
 
-<!-- Mirrored from jetly-html.vercel.app/main-html/index3-one-page.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:34:03 GMT -->
+<!-- Mirrored from jetly-html.vercel.app/main-html/index3.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 May 2024 14:31:32 GMT -->
+
 </html>
