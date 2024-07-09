@@ -13,7 +13,7 @@
                                 <li class="dropdown megamenu">
                                     <a href="index.php">Home </a>
                                 </li>
-                                <li class="dropdown current">
+                                <li class="dropdown">
                                     <a href="#">Pages</a>
                                     <ul class="shadow-box">
                                         <li><a href="about.php">About</a></li>
@@ -64,8 +64,7 @@
                                     </div>
                                     <div class="main-menu__call-content">
                                         <p class="main-menu__call-sub-title">Call Anytime</p>
-                                        <h5 class="main-menu__call-number"><a href="tel:9288006780">+92 ( 8800 ) -
-                                                6780</a></h5>
+                                        <h5 class="main-menu__call-number"><a href="tel:7478926497">+747 892 6497</a></h5>
                                     </div>
                                 </div>
                             </div>
