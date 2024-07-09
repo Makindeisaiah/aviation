@@ -1,3 +1,8 @@
+<?php
+include "includes/db.php";
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -848,22 +853,34 @@
                             }'>
                                 <!--Price One Single Start-->
                                 <div class="item">
+                                    <?php
+                                        $flights = $pdo->query("SELECT * FROM `flights` WHERE `id` = 1");
+
+                                        while ($row = $flights->fetch()) {
+                                        $location_from = $row['location_from'];
+                                        $location_to = $row['location_to'];
+                                        $date = $row['date'];
+                                        $departure = $row['departure'];
+                                        $arrival = $row['arrival'];
+                                        $price = $row['price'];
+                                        $person = $row['person'];
+                                    ?>
                                     <div class="price-one__single">
                                         <div class="price-one__top">
-                                            <p>New York</p>
+                                            <p><?php echo $location_from ?></p>
                                             <i class="fas fa-plane"></i>
-                                            <p>Moscow</p>
+                                            <p><?php echo $location_to ?></p>
                                         </div>
                                         <div class="price-one__content">
                                             <div class="price-one__img">
                                                 <img src="assets/images/resources/price-one-1-1.png" alt="">
                                             </div>
                                             <ul class="list-unstyled price-one_list">
-                                                <li><span>Date:</span> Tuesday, Jul 6, 2022</li>
-                                                <li><span>Departure:</span> 11:25 pm</li>
-                                                <li><span>Arrival:</span> 02:25 am</li>
-                                                <li><span>Starting From:</span> $2786</li>
-                                                <li><span>Person:</span> Adult 3</li>
+                                                <li><span>Date:</span> <?php echo $date ?></li>
+                                                <li><span>Departure:</span> <?php echo $departure ?></li>
+                                                <li><span>Arrival:</span> <?php echo $arrival ?></li>
+                                                <li><span>Starting From:</span> $<?php echo $price ?></li>
+                                                <li><span>Person:</span> Adult <?php echo $person ?></li>
                                             </ul>
                                             <div class="price-one__btn-box">
                                                 <a href="contact.php" class="thm-btn price-one__btn">Book Now</a>
@@ -871,6 +888,7 @@
                                         </div>
                                     </div>
                                 </div>
+                                <?php } ?>
                                 <!--Price One Single End-->
                                 <!--Price One Single Start-->
                                 <div class="item">
