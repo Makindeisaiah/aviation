@@ -9,7 +9,7 @@
                             <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                                 <div class="footer-widget__column footer-widget__about">
                                     <div class="footer-widget__logo">
-                                        <a href="#"><img src="assets/images/resources/footer-logo.png" alt=""></a>
+                                        <a href="index.php"><img src="assets/images/resources/footer-logo.png" alt=""></a>
                                     </div>
                                     <div class="footer-widget__about-text-box">
                                         <p class="footer-widget__about-text">Private jet charters save your time and give you comfort.</p>
@@ -88,7 +88,6 @@
                                 <div class="site-footer__social">
                                     <a href="#"><i class="fab fa-twitter"></i></a>
                                     <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
                                     <a href="#"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
