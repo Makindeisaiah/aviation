@@ -854,94 +854,42 @@ include "includes/db.php";
                                 <!--Price One Single Start-->
                                 <div class="item">
                                     <?php
-                                        $flights = $pdo->query("SELECT * FROM `flights` WHERE `id` = 1");
+                                        // $flights = $pdo->query("SELECT * FROM `flights`");
 
-                                        while ($row = $flights->fetch()) {
-                                        $location_from = $row['location_from'];
-                                        $location_to = $row['location_to'];
-                                        $date = $row['date'];
-                                        $departure = $row['departure'];
-                                        $arrival = $row['arrival'];
-                                        $price = $row['price'];
-                                        $person = $row['person'];
+                                        // while ($row = $flights->fetch()) {
+                                        // $location_from = $row['location_from'];
+                                        // $location_to = $row['location_to'];
+                                        // $date = $row['date'];
+                                        // $departure = $row['departure'];
+                                        // $arrival = $row['arrival'];
+                                        // $price = $row['price'];
+                                        // $person = $row['person'];
                                     ?>
                                     <div class="price-one__single">
                                         <div class="price-one__top">
-                                            <p><?php echo $location_from ?></p>
+                                            <p>Lagos</p>
                                             <i class="fas fa-plane"></i>
-                                            <p><?php echo $location_to ?></p>
+                                            <p>Dubia</p>
                                         </div>
                                         <div class="price-one__content">
                                             <div class="price-one__img">
                                                 <img src="assets/images/resources/price-one-1-1.png" alt="">
                                             </div>
                                             <ul class="list-unstyled price-one_list">
-                                                <li><span>Date:</span> <?php echo $date ?></li>
-                                                <li><span>Departure:</span> <?php echo $departure ?></li>
-                                                <li><span>Arrival:</span> <?php echo $arrival ?></li>
-                                                <li><span>Starting From:</span> $<?php echo $price ?></li>
-                                                <li><span>Person:</span> Adult <?php echo $person ?></li>
+                                                <li><span>Date:</span> 7:9:24</li>
+                                                <li><span>Departure:</span> 10:00 </li>
+                                                <li><span>Arrival:</span> 20:30</li>
+                                                <li><span>Starting From:</span> $1500</li>
+                                                <li><span>Person:</span> Adult 1</li>
                                             </ul>
                                             <div class="price-one__btn-box">
                                                 <a href="contact.php" class="thm-btn price-one__btn">Book Now</a>
                                             </div>
                                         </div>
                                     </div>
+                                    
                                 </div>
-                                <?php } ?>
-                                <!--Price One Single End-->
-                                <!--Price One Single Start-->
-                                <div class="item">
-                                    <div class="price-one__single">
-                                        <div class="price-one__top">
-                                            <p>New York</p>
-                                            <i class="fas fa-plane"></i>
-                                            <p>Moscow</p>
-                                        </div>
-                                        <div class="price-one__content">
-                                            <div class="price-one__img">
-                                                <img src="assets/images/resources/price-one-1-1.png" alt="">
-                                            </div>
-                                            <ul class="list-unstyled price-one_list">
-                                                <li><span>Date:</span> Tuesday, Jul 6, 2022</li>
-                                                <li><span>Departure:</span> 11:25 pm</li>
-                                                <li><span>Arrival:</span> 02:25 am</li>
-                                                <li><span>Starting From:</span> $2786</li>
-                                                <li><span>Person:</span> Adult 3</li>
-                                            </ul>
-                                            <div class="price-one__btn-box">
-                                                <a href="contact.php" class="thm-btn price-one__btn">Book Now</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--Price One Single End-->
-                                <!--Price One Single Start-->
-                                <div class="item">
-                                    <div class="price-one__single">
-                                        <div class="price-one__top">
-                                            <p>New York</p>
-                                            <i class="fas fa-plane"></i>
-                                            <p>Moscow</p>
-                                        </div>
-                                        <div class="price-one__content">
-                                            <div class="price-one__img">
-                                                <img src="assets/images/resources/price-one-1-1.png" alt="">
-                                            </div>
-                                            <ul class="list-unstyled price-one_list">
-                                                <li><span>Date:</span> Tuesday, Jul 6, 2022</li>
-                                                <li><span>Departure:</span> 11:25 pm</li>
-                                                <li><span>Arrival:</span> 02:25 am</li>
-                                                <li><span>Starting From:</span> $2786</li>
-                                                <li><span>Person:</span> Adult 3</li>
-                                            </ul>
-                                            <div class="price-one__btn-box">
-                                                <a href="contact.php" class="thm-btn price-one__btn">Book Now</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--Price One Single End-->
+                                
                             </div>
                         </div>
                     </div>
@@ -961,16 +909,27 @@ include "includes/db.php";
                     </h2>
                 </div>
                 <div class="row">
+                    <?php
+                        $tour = $pdo->query("SELECT * FROM `tour`");
+
+                        while ($row = $tour->fetch()) {
+                        $destination = $row['destination'];
+                        $departure = $row['departure'];
+                        $arrival = $row['arrival'];
+                        $date = $row['date'];
+                        $price = $row['price'];
+                        $person = $row['person'];
+                        $img = $row['img'];
+                    ?>
                     <!--Destination One Single Start-->
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
                         <div class="destination-one__single">
                             <div class="destination-one__img-box">
                                 <div class="destination-one__img">
-                                    <img src="assets/images/resources/destination-1-1.jpg" alt="">
+                                    <img src="<?php echo $img ?>" alt="">
                                 </div>
                                 <div class="destination-one__content">
-                                    <h3 class="destination-one__title"><a href="destination-details.php">Paris -
-                                            Barcelona</a></h3>
+                                    <h3 class="destination-one__title"><a href="destination-details.php"><?php echo $destination ?></a></h3>
                                     <div class="destination-one__time">
                                         <div class="destination-one__paris-time">
                                             <p>Departure: <span>16:50</span></p>
@@ -985,7 +944,7 @@ include "includes/db.php";
                     </div>
                     <!--Destination One Single End-->
                     <!--Destination One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                    <!-- <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
                         <div class="destination-one__single">
                             <div class="destination-one__img-box">
                                 <div class="destination-one__img">
@@ -1005,10 +964,10 @@ include "includes/db.php";
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!--Destination One Single End-->
                     <!--Destination One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
+                    <!-- <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                         <div class="destination-one__single">
                             <div class="destination-one__img-box">
                                 <div class="destination-one__img">
@@ -1028,9 +987,11 @@ include "includes/db.php";
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!--Destination One Single End-->
+                    <?php } ?>
                 </div>
+                
             </div>
         </section>
         <!--Destination One End-->
@@ -1119,6 +1080,7 @@ include "includes/db.php";
                     </h2>
                 </div>
                 <div class="row">
+                    
                     <!--Blog One Single Start-->
                     <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
                         <div class="blog-one__single">
@@ -1211,6 +1173,7 @@ include "includes/db.php";
                     </div>
                     <!--Blog One Single End-->
                 </div>
+                
             </div>
         </section>
         <!--Blog One End-->
