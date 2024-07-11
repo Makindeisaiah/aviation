@@ -1,3 +1,7 @@
+<?php
+include "includes/db.php";
+include "includes/action.php";
+?>
 <header class="main-header">
             <nav class="main-menu">
                 <div class="main-menu__wrapper">
@@ -53,10 +57,26 @@
                         </div>
                         <div class="main-menu__right">
                             <div class="main-menu__search-cart-call-box">
-                                <div class="main-menu__search-cart-box">
+                                <!-- <div class="main-menu__search-cart-box">
                                     <div class="main-menu__search-box">
                                         <a href="#" class="main-menu__search search-toggler icon-magnifying-glass"></a>
                                     </div>
+                                </div> -->
+                                <div class="main-menu__call">
+                                <?php
+                                    $users = $pdo->query("SELECT * FROM `users`");
+
+                                    while ($row = $users->fetch()) {
+                                    $first_name = $row['first_name'];
+                                ?>
+                                    <div class="main-menu__call-icon">
+                                        <i class="fas fa-user"><a href="/login.php"></a></i>
+                                    </div>
+                                    <div class="main-menu__call-content">
+                                        <!-- <p class="main-menu__call-sub-title">Call Anytime</p> -->
+                                        <h5 class="main-menu__call-number"><a href="login.php"><?php echo $first_name ?></a></h5>
+                                    </div>
+                                    <?php } ?>
                                 </div>
                                 <div class="main-menu__call">
                                     <div class="main-menu__call-icon">
